@@ -1,0 +1,751 @@
+INFO  00:00:42,574 - Compiling source file: C:\Users\andri\Desktop\pp1_domaci\workspace\MJCompiler\test\test302.mj
+INFO  00:00:42,627 - #2 program
+INFO  00:00:42,627 - #47 test302
+INFO  00:00:42,628 - #5 const
+INFO  00:00:42,628 - #47 int
+INFO  00:00:42,629 - #47 jedan
+INFO  00:00:42,629 - #23 =
+INFO  00:00:42,629 - #48 1
+INFO  00:00:42,630 - #46 ;
+INFO  00:00:42,630 - #47 int
+INFO  00:00:42,631 - #47 i
+INFO  00:00:42,631 - #46 ;
+INFO  00:00:42,631 - #47 bool
+INFO  00:00:42,632 - #47 ibool
+INFO  00:00:42,632 - #46 ;
+INFO  00:00:42,632 - #47 int
+INFO  00:00:42,632 - #47 niz2
+INFO  00:00:42,632 - #46 ;
+INFO  00:00:42,632 - #47 int
+INFO  00:00:42,632 - #47 niz
+INFO  00:00:42,632 - #41 [
+INFO  00:00:42,632 - #42 ]
+INFO  00:00:42,633 - #46 ;
+INFO  00:00:42,633 - #47 int
+INFO  00:00:42,633 - #47 a
+INFO  00:00:42,633 - #46 ;
+INFO  00:00:42,633 - #39 {
+INFO  00:00:42,633 - #47 int
+INFO  00:00:42,633 - #47 sum
+INFO  00:00:42,634 - #37 (
+INFO  00:00:42,634 - #47 int
+INFO  00:00:42,634 - #47 z
+INFO  00:00:42,634 - #23 =
+INFO  00:00:42,634 - #48 1
+INFO  00:00:42,634 - #44 ,
+INFO  00:00:42,635 - #47 int
+INFO  00:00:42,635 - #47 d
+INFO  00:00:42,635 - #23 =
+INFO  00:00:42,635 - #48 2
+INFO  00:00:42,635 - #38 )
+INFO  00:00:42,635 - #39 {
+INFO  00:00:42,636 - #12 return
+INFO  00:00:42,636 - #47 z
+INFO  00:00:42,637 - #24 +
+INFO  00:00:42,637 - #47 d
+INFO  00:00:42,638 - #46 ;
+INFO  00:00:42,638 - #40 }
+INFO  00:00:42,638 - #47 int
+INFO  00:00:42,639 - #47 inkrement
+INFO  00:00:42,639 - #37 (
+INFO  00:00:42,639 - #47 int
+INFO  00:00:42,639 - #47 a
+INFO  00:00:42,639 - #44 ,
+INFO  00:00:42,639 - #47 int
+INFO  00:00:42,639 - #47 inc
+INFO  00:00:42,639 - #23 =
+INFO  00:00:42,639 - #48 1
+INFO  00:00:42,639 - #38 )
+INFO  00:00:42,639 - #47 int
+INFO  00:00:42,639 - #47 pom
+INFO  00:00:42,640 - #46 ;
+INFO  00:00:42,640 - #39 {
+INFO  00:00:42,640 - #12 return
+INFO  00:00:42,640 - #47 sum
+INFO  00:00:42,640 - #37 (
+INFO  00:00:42,640 - #47 a
+INFO  00:00:42,640 - #44 ,
+INFO  00:00:42,640 - #47 inc
+INFO  00:00:42,640 - #38 )
+INFO  00:00:42,640 - #46 ;
+INFO  00:00:42,640 - #40 }
+INFO  00:00:42,640 - #47 bool
+INFO  00:00:42,640 - #47 verify
+INFO  00:00:42,641 - #37 (
+INFO  00:00:42,641 - #38 )
+INFO  00:00:42,641 - #39 {
+INFO  00:00:42,641 - #10 print
+INFO  00:00:42,641 - #37 (
+INFO  00:00:42,641 - #50 v
+INFO  00:00:42,641 - #38 )
+INFO  00:00:42,641 - #46 ;
+INFO  00:00:42,641 - #12 return
+INFO  00:00:42,641 - #49 false
+INFO  00:00:42,641 - #46 ;
+INFO  00:00:42,642 - #40 }
+INFO  00:00:42,642 - #13 void
+INFO  00:00:42,642 - #47 main
+INFO  00:00:42,642 - #37 (
+INFO  00:00:42,642 - #38 )
+INFO  00:00:42,642 - #39 {
+INFO  00:00:42,642 - #10 print
+INFO  00:00:42,642 - #37 (
+INFO  00:00:42,642 - #47 sum
+INFO  00:00:42,642 - #37 (
+INFO  00:00:42,642 - #38 )
+INFO  00:00:42,642 - #38 )
+INFO  00:00:42,643 - #46 ;
+INFO  00:00:42,643 - #10 print
+INFO  00:00:42,643 - #37 (
+INFO  00:00:42,643 - #47 sum
+INFO  00:00:42,643 - #37 (
+INFO  00:00:42,643 - #48 2
+INFO  00:00:42,643 - #38 )
+INFO  00:00:42,643 - #38 )
+INFO  00:00:42,643 - #46 ;
+INFO  00:00:42,643 - #10 print
+INFO  00:00:42,643 - #37 (
+INFO  00:00:42,643 - #47 sum
+INFO  00:00:42,643 - #37 (
+INFO  00:00:42,643 - #48 2
+INFO  00:00:42,643 - #44 ,
+INFO  00:00:42,643 - #48 2
+INFO  00:00:42,643 - #38 )
+INFO  00:00:42,643 - #38 )
+INFO  00:00:42,643 - #46 ;
+INFO  00:00:42,643 - #10 print
+INFO  00:00:42,644 - #37 (
+INFO  00:00:42,644 - #47 inkrement
+INFO  00:00:42,644 - #37 (
+INFO  00:00:42,644 - #48 2
+INFO  00:00:42,644 - #44 ,
+INFO  00:00:42,644 - #48 4
+INFO  00:00:42,644 - #38 )
+INFO  00:00:42,644 - #38 )
+INFO  00:00:42,644 - #46 ;
+INFO  00:00:42,644 - #10 print
+INFO  00:00:42,644 - #37 (
+INFO  00:00:42,644 - #47 inkrement
+INFO  00:00:42,644 - #37 (
+INFO  00:00:42,644 - #48 4
+INFO  00:00:42,644 - #38 )
+INFO  00:00:42,644 - #38 )
+INFO  00:00:42,644 - #46 ;
+INFO  00:00:42,644 - #40 }
+INFO  00:00:42,644 - #40 }
+INFO  00:00:42,650 - Program(
+  ProgramName(
+   test302
+  ) [ProgramName]
+  ProgramVarDeclarations(
+    ProgramVarDeclarations(
+      ProgramVarDeclarations(
+        ProgramVarDeclarations(
+          ProgramVarDeclarations(
+            ProgramVarDeclarations(
+              NoProgramVarDeclarations(
+              ) [NoProgramVarDeclarations]
+              ConstProgramVarDeclaration(
+                ConstDecl(
+                  Type(
+                   int
+                  ) [Type]
+                  ConstNameSingle(
+                    ConstNamePart(
+                     jedan
+                      AssignOp(
+                      ) [AssignOp]
+                      NumConst(
+                       1
+                      ) [NumConst]
+                    ) [ConstNamePart]
+                  ) [ConstNameSingle]
+                ) [ConstDecl]
+              ) [ConstProgramVarDeclaration]
+            ) [ProgramVarDeclarations]
+            VarProgramVarDeclaration(
+              GlobalVarDeclaration(
+                VarDecl(
+                  Type(
+                   int
+                  ) [Type]
+                  VarNameSingle(
+                    VarNamePartSingle(
+                     i
+                    ) [VarNamePartSingle]
+                  ) [VarNameSingle]
+                ) [VarDecl]
+              ) [GlobalVarDeclaration]
+            ) [VarProgramVarDeclaration]
+          ) [ProgramVarDeclarations]
+          VarProgramVarDeclaration(
+            GlobalVarDeclaration(
+              VarDecl(
+                Type(
+                 bool
+                ) [Type]
+                VarNameSingle(
+                  VarNamePartSingle(
+                   ibool
+                  ) [VarNamePartSingle]
+                ) [VarNameSingle]
+              ) [VarDecl]
+            ) [GlobalVarDeclaration]
+          ) [VarProgramVarDeclaration]
+        ) [ProgramVarDeclarations]
+        VarProgramVarDeclaration(
+          GlobalVarDeclaration(
+            VarDecl(
+              Type(
+               int
+              ) [Type]
+              VarNameSingle(
+                VarNamePartSingle(
+                 niz2
+                ) [VarNamePartSingle]
+              ) [VarNameSingle]
+            ) [VarDecl]
+          ) [GlobalVarDeclaration]
+        ) [VarProgramVarDeclaration]
+      ) [ProgramVarDeclarations]
+      VarProgramVarDeclaration(
+        GlobalVarDeclaration(
+          VarDecl(
+            Type(
+             int
+            ) [Type]
+            VarNameSingle(
+              VarNamePartArray(
+               niz
+              ) [VarNamePartArray]
+            ) [VarNameSingle]
+          ) [VarDecl]
+        ) [GlobalVarDeclaration]
+      ) [VarProgramVarDeclaration]
+    ) [ProgramVarDeclarations]
+    VarProgramVarDeclaration(
+      GlobalVarDeclaration(
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          VarNameSingle(
+            VarNamePartSingle(
+             a
+            ) [VarNamePartSingle]
+          ) [VarNameSingle]
+        ) [VarDecl]
+      ) [GlobalVarDeclaration]
+    ) [VarProgramVarDeclaration]
+  ) [ProgramVarDeclarations]
+  MethodDeclarations(
+    MethodDeclarations(
+      MethodDeclarations(
+        MethodDeclarations(
+          NoMethodDeclarations(
+          ) [NoMethodDeclarations]
+          MethodDeclaration(
+            MethodReturnVal(
+              Type(
+               int
+              ) [Type]
+            ) [MethodReturnVal]
+            MethodName(
+             sum
+            ) [MethodName]
+            MethodParamsOpt(
+              MultipleOptionalArgsList(
+                SingleOptionalArgsList(
+                  OptionalArg(
+                    Type(
+                     int
+                    ) [Type]
+                   z
+                    AssignOp(
+                    ) [AssignOp]
+                    NumConst(
+                     1
+                    ) [NumConst]
+                  ) [OptionalArg]
+                ) [SingleOptionalArgsList]
+                OptionalArg(
+                  Type(
+                   int
+                  ) [Type]
+                 d
+                  AssignOp(
+                  ) [AssignOp]
+                  NumConst(
+                   2
+                  ) [NumConst]
+                ) [OptionalArg]
+              ) [MultipleOptionalArgsList]
+            ) [MethodParamsOpt]
+            NoVarDeclarationList(
+            ) [NoVarDeclarationList]
+            StmtList(
+              NoStmtList(
+              ) [NoStmtList]
+              SingleStmt(
+                ReturnExprSingleStmt(
+                  SignExpression(
+                    ExprInfoMoreOnly(
+                      NoExprSign(
+                      ) [NoExprSign]
+                      ExprInfoMultiple(
+                        ExprInfoSingle(
+                          SingleTerm(
+                            FactorDesignator(
+                              DesignatorNamed(
+                               z
+                              ) [DesignatorNamed]
+                            ) [FactorDesignator]
+                          ) [SingleTerm]
+                        ) [ExprInfoSingle]
+                        AddOpPlus(
+                        ) [AddOpPlus]
+                        SingleTerm(
+                          FactorDesignator(
+                            DesignatorNamed(
+                             d
+                            ) [DesignatorNamed]
+                          ) [FactorDesignator]
+                        ) [SingleTerm]
+                      ) [ExprInfoMultiple]
+                    ) [ExprInfoMoreOnly]
+                  ) [SignExpression]
+                ) [ReturnExprSingleStmt]
+              ) [SingleStmt]
+            ) [StmtList]
+          ) [MethodDeclaration]
+        ) [MethodDeclarations]
+        MethodDeclaration(
+          MethodReturnVal(
+            Type(
+             int
+            ) [Type]
+          ) [MethodReturnVal]
+          MethodName(
+           inkrement
+          ) [MethodName]
+          MethodParamsFormOpt(
+            FormalParsSingle(
+              FormalParam(
+                Type(
+                 int
+                ) [Type]
+                FormParamSingle(
+                 a
+                ) [FormParamSingle]
+              ) [FormalParam]
+            ) [FormalParsSingle]
+            SingleOptionalArgsList(
+              OptionalArg(
+                Type(
+                 int
+                ) [Type]
+               inc
+                AssignOp(
+                ) [AssignOp]
+                NumConst(
+                 1
+                ) [NumConst]
+              ) [OptionalArg]
+            ) [SingleOptionalArgsList]
+          ) [MethodParamsFormOpt]
+          VarDeclarationList(
+            NoVarDeclarationList(
+            ) [NoVarDeclarationList]
+            VarDecl(
+              Type(
+               int
+              ) [Type]
+              VarNameSingle(
+                VarNamePartSingle(
+                 pom
+                ) [VarNamePartSingle]
+              ) [VarNameSingle]
+            ) [VarDecl]
+          ) [VarDeclarationList]
+          StmtList(
+            NoStmtList(
+            ) [NoStmtList]
+            SingleStmt(
+              ReturnExprSingleStmt(
+                SignExpression(
+                  ExprInfoMoreOnly(
+                    NoExprSign(
+                    ) [NoExprSign]
+                    ExprInfoSingle(
+                      SingleTerm(
+                        FactorDesignatorFunctionArgs(
+                          DesignatorNamed(
+                           sum
+                          ) [DesignatorNamed]
+                          ActualPars(
+                            MultipleActPars(
+                              SingleActPars(
+                                SignExpression(
+                                  ExprInfoMoreOnly(
+                                    NoExprSign(
+                                    ) [NoExprSign]
+                                    ExprInfoSingle(
+                                      SingleTerm(
+                                        FactorDesignator(
+                                          DesignatorNamed(
+                                           a
+                                          ) [DesignatorNamed]
+                                        ) [FactorDesignator]
+                                      ) [SingleTerm]
+                                    ) [ExprInfoSingle]
+                                  ) [ExprInfoMoreOnly]
+                                ) [SignExpression]
+                              ) [SingleActPars]
+                              SignExpression(
+                                ExprInfoMoreOnly(
+                                  NoExprSign(
+                                  ) [NoExprSign]
+                                  ExprInfoSingle(
+                                    SingleTerm(
+                                      FactorDesignator(
+                                        DesignatorNamed(
+                                         inc
+                                        ) [DesignatorNamed]
+                                      ) [FactorDesignator]
+                                    ) [SingleTerm]
+                                  ) [ExprInfoSingle]
+                                ) [ExprInfoMoreOnly]
+                              ) [SignExpression]
+                            ) [MultipleActPars]
+                          ) [ActualPars]
+                        ) [FactorDesignatorFunctionArgs]
+                      ) [SingleTerm]
+                    ) [ExprInfoSingle]
+                  ) [ExprInfoMoreOnly]
+                ) [SignExpression]
+              ) [ReturnExprSingleStmt]
+            ) [SingleStmt]
+          ) [StmtList]
+        ) [MethodDeclaration]
+      ) [MethodDeclarations]
+      MethodDeclaration(
+        MethodReturnVal(
+          Type(
+           bool
+          ) [Type]
+        ) [MethodReturnVal]
+        MethodName(
+         verify
+        ) [MethodName]
+        NoMethodParams(
+        ) [NoMethodParams]
+        NoVarDeclarationList(
+        ) [NoVarDeclarationList]
+        StmtList(
+          StmtList(
+            NoStmtList(
+            ) [NoStmtList]
+            SingleStmt(
+              PrintSingleStmt(
+                PrintSingleStmtExpr(
+                  SignExpression(
+                    ExprInfoMoreOnly(
+                      NoExprSign(
+                      ) [NoExprSign]
+                      ExprInfoSingle(
+                        SingleTerm(
+                          FactorConst(
+                            CharConst(
+                             v
+                            ) [CharConst]
+                          ) [FactorConst]
+                        ) [SingleTerm]
+                      ) [ExprInfoSingle]
+                    ) [ExprInfoMoreOnly]
+                  ) [SignExpression]
+                ) [PrintSingleStmtExpr]
+              ) [PrintSingleStmt]
+            ) [SingleStmt]
+          ) [StmtList]
+          SingleStmt(
+            ReturnExprSingleStmt(
+              SignExpression(
+                ExprInfoMoreOnly(
+                  NoExprSign(
+                  ) [NoExprSign]
+                  ExprInfoSingle(
+                    SingleTerm(
+                      FactorConst(
+                        BoolConst(
+                         false
+                        ) [BoolConst]
+                      ) [FactorConst]
+                    ) [SingleTerm]
+                  ) [ExprInfoSingle]
+                ) [ExprInfoMoreOnly]
+              ) [SignExpression]
+            ) [ReturnExprSingleStmt]
+          ) [SingleStmt]
+        ) [StmtList]
+      ) [MethodDeclaration]
+    ) [MethodDeclarations]
+    MethodDeclaration(
+      MethodReturnVoid(
+      ) [MethodReturnVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoMethodParams(
+      ) [NoMethodParams]
+      NoVarDeclarationList(
+      ) [NoVarDeclarationList]
+      StmtList(
+        StmtList(
+          StmtList(
+            StmtList(
+              StmtList(
+                NoStmtList(
+                ) [NoStmtList]
+                SingleStmt(
+                  PrintSingleStmt(
+                    PrintSingleStmtExpr(
+                      SignExpression(
+                        ExprInfoMoreOnly(
+                          NoExprSign(
+                          ) [NoExprSign]
+                          ExprInfoSingle(
+                            SingleTerm(
+                              FactorDesignatorFunction(
+                                DesignatorNamed(
+                                 sum
+                                ) [DesignatorNamed]
+                              ) [FactorDesignatorFunction]
+                            ) [SingleTerm]
+                          ) [ExprInfoSingle]
+                        ) [ExprInfoMoreOnly]
+                      ) [SignExpression]
+                    ) [PrintSingleStmtExpr]
+                  ) [PrintSingleStmt]
+                ) [SingleStmt]
+              ) [StmtList]
+              SingleStmt(
+                PrintSingleStmt(
+                  PrintSingleStmtExpr(
+                    SignExpression(
+                      ExprInfoMoreOnly(
+                        NoExprSign(
+                        ) [NoExprSign]
+                        ExprInfoSingle(
+                          SingleTerm(
+                            FactorDesignatorFunctionArgs(
+                              DesignatorNamed(
+                               sum
+                              ) [DesignatorNamed]
+                              ActualPars(
+                                SingleActPars(
+                                  SignExpression(
+                                    ExprInfoMoreOnly(
+                                      NoExprSign(
+                                      ) [NoExprSign]
+                                      ExprInfoSingle(
+                                        SingleTerm(
+                                          FactorConst(
+                                            NumConst(
+                                             2
+                                            ) [NumConst]
+                                          ) [FactorConst]
+                                        ) [SingleTerm]
+                                      ) [ExprInfoSingle]
+                                    ) [ExprInfoMoreOnly]
+                                  ) [SignExpression]
+                                ) [SingleActPars]
+                              ) [ActualPars]
+                            ) [FactorDesignatorFunctionArgs]
+                          ) [SingleTerm]
+                        ) [ExprInfoSingle]
+                      ) [ExprInfoMoreOnly]
+                    ) [SignExpression]
+                  ) [PrintSingleStmtExpr]
+                ) [PrintSingleStmt]
+              ) [SingleStmt]
+            ) [StmtList]
+            SingleStmt(
+              PrintSingleStmt(
+                PrintSingleStmtExpr(
+                  SignExpression(
+                    ExprInfoMoreOnly(
+                      NoExprSign(
+                      ) [NoExprSign]
+                      ExprInfoSingle(
+                        SingleTerm(
+                          FactorDesignatorFunctionArgs(
+                            DesignatorNamed(
+                             sum
+                            ) [DesignatorNamed]
+                            ActualPars(
+                              MultipleActPars(
+                                SingleActPars(
+                                  SignExpression(
+                                    ExprInfoMoreOnly(
+                                      NoExprSign(
+                                      ) [NoExprSign]
+                                      ExprInfoSingle(
+                                        SingleTerm(
+                                          FactorConst(
+                                            NumConst(
+                                             2
+                                            ) [NumConst]
+                                          ) [FactorConst]
+                                        ) [SingleTerm]
+                                      ) [ExprInfoSingle]
+                                    ) [ExprInfoMoreOnly]
+                                  ) [SignExpression]
+                                ) [SingleActPars]
+                                SignExpression(
+                                  ExprInfoMoreOnly(
+                                    NoExprSign(
+                                    ) [NoExprSign]
+                                    ExprInfoSingle(
+                                      SingleTerm(
+                                        FactorConst(
+                                          NumConst(
+                                           2
+                                          ) [NumConst]
+                                        ) [FactorConst]
+                                      ) [SingleTerm]
+                                    ) [ExprInfoSingle]
+                                  ) [ExprInfoMoreOnly]
+                                ) [SignExpression]
+                              ) [MultipleActPars]
+                            ) [ActualPars]
+                          ) [FactorDesignatorFunctionArgs]
+                        ) [SingleTerm]
+                      ) [ExprInfoSingle]
+                    ) [ExprInfoMoreOnly]
+                  ) [SignExpression]
+                ) [PrintSingleStmtExpr]
+              ) [PrintSingleStmt]
+            ) [SingleStmt]
+          ) [StmtList]
+          SingleStmt(
+            PrintSingleStmt(
+              PrintSingleStmtExpr(
+                SignExpression(
+                  ExprInfoMoreOnly(
+                    NoExprSign(
+                    ) [NoExprSign]
+                    ExprInfoSingle(
+                      SingleTerm(
+                        FactorDesignatorFunctionArgs(
+                          DesignatorNamed(
+                           inkrement
+                          ) [DesignatorNamed]
+                          ActualPars(
+                            MultipleActPars(
+                              SingleActPars(
+                                SignExpression(
+                                  ExprInfoMoreOnly(
+                                    NoExprSign(
+                                    ) [NoExprSign]
+                                    ExprInfoSingle(
+                                      SingleTerm(
+                                        FactorConst(
+                                          NumConst(
+                                           2
+                                          ) [NumConst]
+                                        ) [FactorConst]
+                                      ) [SingleTerm]
+                                    ) [ExprInfoSingle]
+                                  ) [ExprInfoMoreOnly]
+                                ) [SignExpression]
+                              ) [SingleActPars]
+                              SignExpression(
+                                ExprInfoMoreOnly(
+                                  NoExprSign(
+                                  ) [NoExprSign]
+                                  ExprInfoSingle(
+                                    SingleTerm(
+                                      FactorConst(
+                                        NumConst(
+                                         4
+                                        ) [NumConst]
+                                      ) [FactorConst]
+                                    ) [SingleTerm]
+                                  ) [ExprInfoSingle]
+                                ) [ExprInfoMoreOnly]
+                              ) [SignExpression]
+                            ) [MultipleActPars]
+                          ) [ActualPars]
+                        ) [FactorDesignatorFunctionArgs]
+                      ) [SingleTerm]
+                    ) [ExprInfoSingle]
+                  ) [ExprInfoMoreOnly]
+                ) [SignExpression]
+              ) [PrintSingleStmtExpr]
+            ) [PrintSingleStmt]
+          ) [SingleStmt]
+        ) [StmtList]
+        SingleStmt(
+          PrintSingleStmt(
+            PrintSingleStmtExpr(
+              SignExpression(
+                ExprInfoMoreOnly(
+                  NoExprSign(
+                  ) [NoExprSign]
+                  ExprInfoSingle(
+                    SingleTerm(
+                      FactorDesignatorFunctionArgs(
+                        DesignatorNamed(
+                         inkrement
+                        ) [DesignatorNamed]
+                        ActualPars(
+                          SingleActPars(
+                            SignExpression(
+                              ExprInfoMoreOnly(
+                                NoExprSign(
+                                ) [NoExprSign]
+                                ExprInfoSingle(
+                                  SingleTerm(
+                                    FactorConst(
+                                      NumConst(
+                                       4
+                                      ) [NumConst]
+                                    ) [FactorConst]
+                                  ) [SingleTerm]
+                                ) [ExprInfoSingle]
+                              ) [ExprInfoMoreOnly]
+                            ) [SignExpression]
+                          ) [SingleActPars]
+                        ) [ActualPars]
+                      ) [FactorDesignatorFunctionArgs]
+                    ) [SingleTerm]
+                  ) [ExprInfoSingle]
+                ) [ExprInfoMoreOnly]
+              ) [SignExpression]
+            ) [PrintSingleStmtExpr]
+          ) [PrintSingleStmt]
+        ) [SingleStmt]
+      ) [StmtList]
+    ) [MethodDeclaration]
+  ) [MethodDeclarations]
+) [Program]
+INFO  00:00:42,651 - ===================================
+INFO  00:00:42,653 - start main na liniji 3
+INFO  00:00:42,653 - Const int 1 na liniji 5
+INFO  00:00:42,654 - Variable int i declared
+INFO  00:00:42,654 - Variable bool ibool declared
+INFO  00:00:42,654 - Variable int niz2 declared
+INFO  00:00:42,654 - Variable int niz declared
+INFO  00:00:42,654 - Variable int a declared
+INFO  00:00:42,654 - Method returns int na liniji 17
+INFO  00:00:42,654 - start method sum na liniji 17
+INFO  00:00:42,654 - Method returns int na liniji 23
+INFO  00:00:42,654 - start method inkrement na liniji 23
+INFO  00:00:42,654 - Variable int pom declared
+INFO  00:00:42,654 - Method returns bool na liniji 32
+INFO  00:00:42,654 - start method verify na liniji 32
+INFO  00:00:42,654 - Method returns void
+INFO  00:00:42,654 - start method main na liniji 37
+INFO  00:00:42,655 - end main na liniji 3
+INFO  00:00:42,655 - ===================================
+INFO  00:00:42,658 - Parsing successfull

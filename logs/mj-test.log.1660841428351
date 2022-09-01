@@ -1,0 +1,125 @@
+INFO  18:49:06,921 - Compiling source file: /Users/filipandric/Desktop/pp1_plsradi/workspace/MJCompiler/test/program.mj
+INFO  18:49:06,972 - #2 program
+INFO  18:49:06,972 - #47 p
+INFO  18:49:06,972 - #16 class
+INFO  18:49:06,974 - #47 A
+INFO  18:49:06,974 - #39 {
+INFO  18:49:06,975 - #40 }
+INFO  18:49:06,976 - #5 const
+INFO  18:49:06,976 - #47 int
+INFO  18:49:06,976 - #47 a
+INFO  18:49:06,976 - #23 =
+INFO  18:49:06,976 - #48 0
+INFO  18:49:06,978 - #46 ;
+INFO  18:49:06,978 - #5 const
+INFO  18:49:06,979 - #47 A
+INFO  18:49:06,979 - #47 b
+INFO  18:49:06,979 - #23 =
+INFO  18:49:06,979 - #48 0
+INFO  18:49:06,979 - #46 ;
+INFO  18:49:06,979 - #5 const
+INFO  18:49:06,979 - #47 int
+INFO  18:49:06,979 - #47 c
+INFO  18:49:06,979 - #23 =
+INFO  18:49:06,979 - #47 true
+ERROR 18:49:06,979 - Syntax error na liniji 10
+INFO  18:49:06,979 - #46 ;
+INFO  18:49:06,979 - #39 {
+INFO  18:49:06,979 - #13 void
+INFO  18:49:06,981 - #47 main
+INFO  18:49:06,981 - #37 (
+ERROR 18:49:06,981 - 
+Sintaksna greska : Greska pri definiciji globalne promenljive, linija: 8
+INFO  18:49:06,981 - Uspesno izvrsen oporavak od greske pri definiciji globalne promenljive.
+INFO  18:49:06,982 - #38 )
+INFO  18:49:06,983 - #39 {
+INFO  18:49:06,983 - #40 }
+INFO  18:49:06,985 - #40 }
+INFO  18:49:07,066 - Program(
+  ProgramName(
+   p
+  ) [ProgramName]
+  ProgramVarDeclarations(
+    ProgramVarDeclarations(
+      ProgramVarDeclarations(
+        ProgramVarDeclarations(
+          NoProgramVarDeclarations(
+          ) [NoProgramVarDeclarations]
+          ClassProgramVarDeclaration(
+            ClassDecl(
+              ClassName(
+               A
+              ) [ClassName]
+              BaseClass(
+              ) [BaseClass]
+              ClassInfo(
+                NoClassVarDeclarations(
+                ) [NoClassVarDeclarations]
+                NoClassMethods(
+                ) [NoClassMethods]
+              ) [ClassInfo]
+            ) [ClassDecl]
+          ) [ClassProgramVarDeclaration]
+        ) [ProgramVarDeclarations]
+        ConstProgramVarDeclaration(
+          ConstDecl(
+            Type(
+             int
+            ) [Type]
+            ConstNameSingle(
+              ConstNamePart(
+               a
+                AssignOp(
+                ) [AssignOp]
+                NumConst(
+                 0
+                ) [NumConst]
+              ) [ConstNamePart]
+            ) [ConstNameSingle]
+          ) [ConstDecl]
+        ) [ConstProgramVarDeclaration]
+      ) [ProgramVarDeclarations]
+      ConstProgramVarDeclaration(
+        ConstDecl(
+          Type(
+           A
+          ) [Type]
+          ConstNameSingle(
+            ConstNamePart(
+             b
+              AssignOp(
+              ) [AssignOp]
+              NumConst(
+               0
+              ) [NumConst]
+            ) [ConstNamePart]
+          ) [ConstNameSingle]
+        ) [ConstDecl]
+      ) [ConstProgramVarDeclaration]
+    ) [ProgramVarDeclarations]
+    VarProgramVarDeclaration(
+      GlobalVarDeclarationError(
+      ) [GlobalVarDeclarationError]
+    ) [VarProgramVarDeclaration]
+  ) [ProgramVarDeclarations]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodReturnVoid(
+      ) [MethodReturnVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoMethodParams(
+      ) [NoMethodParams]
+      NoVarDeclarationList(
+      ) [NoVarDeclarationList]
+      NoStmtList(
+      ) [NoStmtList]
+    ) [MethodDeclaration]
+  ) [MethodDeclarations]
+) [Program]
+INFO  18:49:07,066 - ===================================
+INFO  18:49:07,068 - start main na liniji 1
+INFO  18:49:07,068 - int

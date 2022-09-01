@@ -1,0 +1,1448 @@
+INFO  18:27:15,488 - Compiling source file: C:\Users\andri\Desktop\pp1_domaci\workspace\MJCompiler\test\test301.mj
+INFO  18:27:15,615 - #2 program
+INFO  18:27:15,615 - #47 test301
+INFO  18:27:15,615 - #5 const
+INFO  18:27:15,617 - #47 int
+INFO  18:27:15,617 - #47 nula
+INFO  18:27:15,617 - #23 =
+INFO  18:27:15,618 - #48 0
+INFO  18:27:15,618 - #46 ;
+INFO  18:27:15,619 - #5 const
+INFO  18:27:15,620 - #47 int
+INFO  18:27:15,620 - #47 jedan
+INFO  18:27:15,620 - #23 =
+INFO  18:27:15,620 - #48 1
+INFO  18:27:15,620 - #46 ;
+INFO  18:27:15,621 - #5 const
+INFO  18:27:15,621 - #47 int
+INFO  18:27:15,621 - #47 pet
+INFO  18:27:15,621 - #23 =
+INFO  18:27:15,621 - #48 5
+INFO  18:27:15,621 - #46 ;
+INFO  18:27:15,621 - #47 int
+INFO  18:27:15,621 - #47 niz
+INFO  18:27:15,621 - #41 [
+INFO  18:27:15,622 - #42 ]
+INFO  18:27:15,622 - #46 ;
+INFO  18:27:15,622 - #47 char
+INFO  18:27:15,623 - #47 nizch
+INFO  18:27:15,623 - #41 [
+INFO  18:27:15,623 - #42 ]
+INFO  18:27:15,623 - #46 ;
+INFO  18:27:15,623 - #39 {
+INFO  18:27:15,623 - #13 void
+INFO  18:27:15,624 - #47 main
+INFO  18:27:15,624 - #37 (
+INFO  18:27:15,625 - #38 )
+INFO  18:27:15,625 - #47 int
+INFO  18:27:15,626 - #47 bodovi
+INFO  18:27:15,626 - #46 ;
+INFO  18:27:15,626 - #47 bool
+INFO  18:27:15,626 - #47 bt
+INFO  18:27:15,626 - #46 ;
+INFO  18:27:15,626 - #39 {
+INFO  18:27:15,626 - #47 bt
+INFO  18:27:15,627 - #23 =
+INFO  18:27:15,627 - #49 true
+INFO  18:27:15,628 - #46 ;
+INFO  18:27:15,629 - #47 bodovi
+INFO  18:27:15,629 - #23 =
+INFO  18:27:15,629 - #48 0
+INFO  18:27:15,629 - #46 ;
+INFO  18:27:15,629 - #47 bodovi
+INFO  18:27:15,630 - #20 ++
+INFO  18:27:15,630 - #46 ;
+INFO  18:27:15,630 - #47 bodovi
+INFO  18:27:15,630 - #23 =
+INFO  18:27:15,630 - #47 bodovi
+INFO  18:27:15,630 - #24 +
+INFO  18:27:15,630 - #47 jedan
+INFO  18:27:15,631 - #46 ;
+INFO  18:27:15,631 - #47 bodovi
+INFO  18:27:15,631 - #23 =
+INFO  18:27:15,631 - #47 bodovi
+INFO  18:27:15,631 - #26 *
+INFO  18:27:15,632 - #47 pet
+INFO  18:27:15,633 - #46 ;
+INFO  18:27:15,633 - #47 bodovi
+INFO  18:27:15,633 - #21 --
+INFO  18:27:15,633 - #46 ;
+INFO  18:27:15,633 - #10 print
+INFO  18:27:15,633 - #37 (
+INFO  18:27:15,633 - #47 bodovi
+INFO  18:27:15,633 - #38 )
+INFO  18:27:15,633 - #46 ;
+INFO  18:27:15,633 - #47 niz
+INFO  18:27:15,634 - #23 =
+INFO  18:27:15,634 - #15 new
+INFO  18:27:15,634 - #47 int
+INFO  18:27:15,634 - #41 [
+INFO  18:27:15,634 - #48 3
+INFO  18:27:15,634 - #42 ]
+INFO  18:27:15,634 - #46 ;
+INFO  18:27:15,634 - #47 niz
+INFO  18:27:15,634 - #41 [
+INFO  18:27:15,634 - #47 nula
+INFO  18:27:15,634 - #42 ]
+INFO  18:27:15,635 - #23 =
+INFO  18:27:15,635 - #47 jedan
+INFO  18:27:15,635 - #46 ;
+INFO  18:27:15,635 - #47 niz
+INFO  18:27:15,635 - #41 [
+INFO  18:27:15,635 - #48 1
+INFO  18:27:15,635 - #42 ]
+INFO  18:27:15,635 - #23 =
+INFO  18:27:15,635 - #48 2
+INFO  18:27:15,635 - #46 ;
+INFO  18:27:15,636 - #47 niz
+INFO  18:27:15,636 - #41 [
+INFO  18:27:15,636 - #47 niz
+INFO  18:27:15,636 - #41 [
+INFO  18:27:15,636 - #47 jedan
+INFO  18:27:15,636 - #42 ]
+INFO  18:27:15,636 - #42 ]
+INFO  18:27:15,636 - #23 =
+INFO  18:27:15,636 - #47 niz
+INFO  18:27:15,636 - #41 [
+INFO  18:27:15,636 - #47 niz
+INFO  18:27:15,636 - #41 [
+INFO  18:27:15,636 - #48 0
+INFO  18:27:15,636 - #42 ]
+INFO  18:27:15,637 - #42 ]
+INFO  18:27:15,637 - #26 *
+INFO  18:27:15,637 - #48 3
+INFO  18:27:15,637 - #46 ;
+INFO  18:27:15,637 - #47 bodovi
+INFO  18:27:15,637 - #23 =
+INFO  18:27:15,637 - #47 niz
+INFO  18:27:15,637 - #41 [
+INFO  18:27:15,637 - #48 2
+INFO  18:27:15,637 - #42 ]
+INFO  18:27:15,637 - #27 /
+INFO  18:27:15,637 - #47 niz
+INFO  18:27:15,638 - #41 [
+INFO  18:27:15,638 - #48 0
+INFO  18:27:15,638 - #42 ]
+INFO  18:27:15,638 - #46 ;
+INFO  18:27:15,638 - #10 print
+INFO  18:27:15,638 - #37 (
+INFO  18:27:15,639 - #47 bodovi
+INFO  18:27:15,639 - #38 )
+INFO  18:27:15,639 - #46 ;
+INFO  18:27:15,639 - #10 print
+INFO  18:27:15,639 - #37 (
+INFO  18:27:15,639 - #47 niz
+INFO  18:27:15,639 - #41 [
+INFO  18:27:15,639 - #48 2
+INFO  18:27:15,639 - #42 ]
+INFO  18:27:15,639 - #38 )
+INFO  18:27:15,639 - #46 ;
+INFO  18:27:15,639 - #47 nizch
+INFO  18:27:15,640 - #23 =
+INFO  18:27:15,640 - #15 new
+INFO  18:27:15,640 - #47 char
+INFO  18:27:15,640 - #41 [
+INFO  18:27:15,640 - #48 3
+INFO  18:27:15,640 - #42 ]
+INFO  18:27:15,640 - #46 ;
+INFO  18:27:15,640 - #47 nizch
+INFO  18:27:15,640 - #41 [
+INFO  18:27:15,640 - #48 0
+INFO  18:27:15,640 - #42 ]
+INFO  18:27:15,640 - #23 =
+INFO  18:27:15,640 - #50 a
+INFO  18:27:15,640 - #46 ;
+INFO  18:27:15,641 - #47 nizch
+INFO  18:27:15,641 - #41 [
+INFO  18:27:15,641 - #47 jedan
+INFO  18:27:15,641 - #42 ]
+INFO  18:27:15,641 - #23 =
+INFO  18:27:15,641 - #50 b
+INFO  18:27:15,641 - #46 ;
+INFO  18:27:15,641 - #47 nizch
+INFO  18:27:15,641 - #41 [
+INFO  18:27:15,641 - #47 pet
+INFO  18:27:15,641 - #25 -
+INFO  18:27:15,641 - #48 3
+INFO  18:27:15,642 - #42 ]
+INFO  18:27:15,642 - #23 =
+INFO  18:27:15,642 - #50 c
+INFO  18:27:15,642 - #46 ;
+INFO  18:27:15,642 - #10 print
+INFO  18:27:15,642 - #37 (
+INFO  18:27:15,642 - #47 nizch
+INFO  18:27:15,642 - #41 [
+INFO  18:27:15,643 - #48 1
+INFO  18:27:15,643 - #42 ]
+INFO  18:27:15,643 - #38 )
+INFO  18:27:15,643 - #46 ;
+INFO  18:27:15,643 - #10 print
+INFO  18:27:15,643 - #37 (
+INFO  18:27:15,643 - #47 nizch
+INFO  18:27:15,643 - #41 [
+INFO  18:27:15,643 - #47 jedan
+INFO  18:27:15,643 - #26 *
+INFO  18:27:15,643 - #48 2
+INFO  18:27:15,643 - #42 ]
+INFO  18:27:15,643 - #38 )
+INFO  18:27:15,644 - #46 ;
+INFO  18:27:15,644 - #47 bodovi
+INFO  18:27:15,644 - #23 =
+INFO  18:27:15,644 - #47 bodovi
+INFO  18:27:15,644 - #24 +
+INFO  18:27:15,644 - #37 (
+INFO  18:27:15,644 - #47 pet
+INFO  18:27:15,644 - #26 *
+INFO  18:27:15,644 - #47 jedan
+INFO  18:27:15,644 - #25 -
+INFO  18:27:15,644 - #48 1
+INFO  18:27:15,644 - #38 )
+INFO  18:27:15,644 - #26 *
+INFO  18:27:15,645 - #47 bodovi
+INFO  18:27:15,645 - #25 -
+INFO  18:27:15,645 - #37 (
+INFO  18:27:15,645 - #48 3
+INFO  18:27:15,645 - #28 %
+INFO  18:27:15,645 - #48 2
+INFO  18:27:15,645 - #24 +
+INFO  18:27:15,646 - #48 3
+INFO  18:27:15,646 - #26 *
+INFO  18:27:15,646 - #48 2
+INFO  18:27:15,646 - #25 -
+INFO  18:27:15,646 - #48 3
+INFO  18:27:15,646 - #38 )
+INFO  18:27:15,646 - #46 ;
+INFO  18:27:15,646 - #10 print
+INFO  18:27:15,646 - #37 (
+INFO  18:27:15,646 - #47 bodovi
+INFO  18:27:15,646 - #38 )
+INFO  18:27:15,646 - #46 ;
+INFO  18:27:15,646 - #11 read
+INFO  18:27:15,646 - #37 (
+INFO  18:27:15,646 - #47 bodovi
+INFO  18:27:15,647 - #38 )
+INFO  18:27:15,647 - #46 ;
+INFO  18:27:15,647 - #10 print
+INFO  18:27:15,647 - #37 (
+INFO  18:27:15,647 - #47 bodovi
+INFO  18:27:15,647 - #38 )
+INFO  18:27:15,647 - #46 ;
+INFO  18:27:15,647 - #40 }
+INFO  18:27:15,647 - #40 }
+INFO  18:27:15,655 - Program(
+  ProgramName(
+   test301
+  ) [ProgramName]
+  ProgramVarDeclarations(
+    ProgramVarDeclarations(
+      ProgramVarDeclarations(
+        ProgramVarDeclarations(
+          ProgramVarDeclarations(
+            NoProgramVarDeclarations(
+            ) [NoProgramVarDeclarations]
+            ConstProgramVarDeclaration(
+              ConstDecl(
+                Type(
+                 int
+                ) [Type]
+                ConstNameSingle(
+                  ConstNamePart(
+                   nula
+                    AssignOp(
+                    ) [AssignOp]
+                    NumConst(
+                     0
+                    ) [NumConst]
+                  ) [ConstNamePart]
+                ) [ConstNameSingle]
+              ) [ConstDecl]
+            ) [ConstProgramVarDeclaration]
+          ) [ProgramVarDeclarations]
+          ConstProgramVarDeclaration(
+            ConstDecl(
+              Type(
+               int
+              ) [Type]
+              ConstNameSingle(
+                ConstNamePart(
+                 jedan
+                  AssignOp(
+                  ) [AssignOp]
+                  NumConst(
+                   1
+                  ) [NumConst]
+                ) [ConstNamePart]
+              ) [ConstNameSingle]
+            ) [ConstDecl]
+          ) [ConstProgramVarDeclaration]
+        ) [ProgramVarDeclarations]
+        ConstProgramVarDeclaration(
+          ConstDecl(
+            Type(
+             int
+            ) [Type]
+            ConstNameSingle(
+              ConstNamePart(
+               pet
+                AssignOp(
+                ) [AssignOp]
+                NumConst(
+                 5
+                ) [NumConst]
+              ) [ConstNamePart]
+            ) [ConstNameSingle]
+          ) [ConstDecl]
+        ) [ConstProgramVarDeclaration]
+      ) [ProgramVarDeclarations]
+      VarProgramVarDeclaration(
+        GlobalVarDeclaration(
+          VarDecl(
+            Type(
+             int
+            ) [Type]
+            VarNameSingle(
+              VarNamePartArray(
+               niz
+              ) [VarNamePartArray]
+            ) [VarNameSingle]
+          ) [VarDecl]
+        ) [GlobalVarDeclaration]
+      ) [VarProgramVarDeclaration]
+    ) [ProgramVarDeclarations]
+    VarProgramVarDeclaration(
+      GlobalVarDeclaration(
+        VarDecl(
+          Type(
+           char
+          ) [Type]
+          VarNameSingle(
+            VarNamePartArray(
+             nizch
+            ) [VarNamePartArray]
+          ) [VarNameSingle]
+        ) [VarDecl]
+      ) [GlobalVarDeclaration]
+    ) [VarProgramVarDeclaration]
+  ) [ProgramVarDeclarations]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodReturnVoid(
+      ) [MethodReturnVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoMethodParams(
+      ) [NoMethodParams]
+      VarDeclarationList(
+        VarDeclarationList(
+          NoVarDeclarationList(
+          ) [NoVarDeclarationList]
+          VarDecl(
+            Type(
+             int
+            ) [Type]
+            VarNameSingle(
+              VarNamePartSingle(
+               bodovi
+              ) [VarNamePartSingle]
+            ) [VarNameSingle]
+          ) [VarDecl]
+        ) [VarDeclarationList]
+        VarDecl(
+          Type(
+           bool
+          ) [Type]
+          VarNameSingle(
+            VarNamePartSingle(
+             bt
+            ) [VarNamePartSingle]
+          ) [VarNameSingle]
+        ) [VarDecl]
+      ) [VarDeclarationList]
+      StmtList(
+        StmtList(
+          StmtList(
+            StmtList(
+              StmtList(
+                StmtList(
+                  StmtList(
+                    StmtList(
+                      StmtList(
+                        StmtList(
+                          StmtList(
+                            StmtList(
+                              StmtList(
+                                StmtList(
+                                  StmtList(
+                                    StmtList(
+                                      StmtList(
+                                        StmtList(
+                                          StmtList(
+                                            StmtList(
+                                              StmtList(
+                                                StmtList(
+                                                  StmtList(
+                                                    StmtList(
+                                                      NoStmtList(
+                                                      ) [NoStmtList]
+                                                      SingleStmt(
+                                                        DesignatorSingleStmt(
+                                                          DesingatorStatementAssignOpClass(
+                                                            DesignatorStmtAssignOp(
+                                                              DesignatorNamed(
+                                                               bt
+                                                              ) [DesignatorNamed]
+                                                              AssignOp(
+                                                              ) [AssignOp]
+                                                              SignExpression(
+                                                                ExprInfoMoreOnly(
+                                                                  NoExprSign(
+                                                                  ) [NoExprSign]
+                                                                  ExprInfoSingle(
+                                                                    SingleTerm(
+                                                                      FactorConst(
+                                                                        BoolConst(
+                                                                         true
+                                                                        ) [BoolConst]
+                                                                      ) [FactorConst]
+                                                                    ) [SingleTerm]
+                                                                  ) [ExprInfoSingle]
+                                                                ) [ExprInfoMoreOnly]
+                                                              ) [SignExpression]
+                                                            ) [DesignatorStmtAssignOp]
+                                                          ) [DesingatorStatementAssignOpClass]
+                                                        ) [DesignatorSingleStmt]
+                                                      ) [SingleStmt]
+                                                    ) [StmtList]
+                                                    SingleStmt(
+                                                      DesignatorSingleStmt(
+                                                        DesingatorStatementAssignOpClass(
+                                                          DesignatorStmtAssignOp(
+                                                            DesignatorNamed(
+                                                             bodovi
+                                                            ) [DesignatorNamed]
+                                                            AssignOp(
+                                                            ) [AssignOp]
+                                                            SignExpression(
+                                                              ExprInfoMoreOnly(
+                                                                NoExprSign(
+                                                                ) [NoExprSign]
+                                                                ExprInfoSingle(
+                                                                  SingleTerm(
+                                                                    FactorConst(
+                                                                      NumConst(
+                                                                       0
+                                                                      ) [NumConst]
+                                                                    ) [FactorConst]
+                                                                  ) [SingleTerm]
+                                                                ) [ExprInfoSingle]
+                                                              ) [ExprInfoMoreOnly]
+                                                            ) [SignExpression]
+                                                          ) [DesignatorStmtAssignOp]
+                                                        ) [DesingatorStatementAssignOpClass]
+                                                      ) [DesignatorSingleStmt]
+                                                    ) [SingleStmt]
+                                                  ) [StmtList]
+                                                  SingleStmt(
+                                                    DesignatorSingleStmt(
+                                                      DesignatorStatementClass(
+                                                        DesignatorIncrement(
+                                                          DesignatorNamed(
+                                                           bodovi
+                                                          ) [DesignatorNamed]
+                                                        ) [DesignatorIncrement]
+                                                      ) [DesignatorStatementClass]
+                                                    ) [DesignatorSingleStmt]
+                                                  ) [SingleStmt]
+                                                ) [StmtList]
+                                                SingleStmt(
+                                                  DesignatorSingleStmt(
+                                                    DesingatorStatementAssignOpClass(
+                                                      DesignatorStmtAssignOp(
+                                                        DesignatorNamed(
+                                                         bodovi
+                                                        ) [DesignatorNamed]
+                                                        AssignOp(
+                                                        ) [AssignOp]
+                                                        SignExpression(
+                                                          ExprInfoMoreOnly(
+                                                            NoExprSign(
+                                                            ) [NoExprSign]
+                                                            ExprInfoMultiple(
+                                                              ExprInfoSingle(
+                                                                SingleTerm(
+                                                                  FactorDesignator(
+                                                                    DesignatorNamed(
+                                                                     bodovi
+                                                                    ) [DesignatorNamed]
+                                                                  ) [FactorDesignator]
+                                                                ) [SingleTerm]
+                                                              ) [ExprInfoSingle]
+                                                              AddOpPlus(
+                                                              ) [AddOpPlus]
+                                                              SingleTerm(
+                                                                FactorDesignator(
+                                                                  DesignatorNamed(
+                                                                   jedan
+                                                                  ) [DesignatorNamed]
+                                                                ) [FactorDesignator]
+                                                              ) [SingleTerm]
+                                                            ) [ExprInfoMultiple]
+                                                          ) [ExprInfoMoreOnly]
+                                                        ) [SignExpression]
+                                                      ) [DesignatorStmtAssignOp]
+                                                    ) [DesingatorStatementAssignOpClass]
+                                                  ) [DesignatorSingleStmt]
+                                                ) [SingleStmt]
+                                              ) [StmtList]
+                                              SingleStmt(
+                                                DesignatorSingleStmt(
+                                                  DesingatorStatementAssignOpClass(
+                                                    DesignatorStmtAssignOp(
+                                                      DesignatorNamed(
+                                                       bodovi
+                                                      ) [DesignatorNamed]
+                                                      AssignOp(
+                                                      ) [AssignOp]
+                                                      SignExpression(
+                                                        ExprInfoMoreOnly(
+                                                          NoExprSign(
+                                                          ) [NoExprSign]
+                                                          ExprInfoSingle(
+                                                            MultipleTerm(
+                                                              SingleTerm(
+                                                                FactorDesignator(
+                                                                  DesignatorNamed(
+                                                                   bodovi
+                                                                  ) [DesignatorNamed]
+                                                                ) [FactorDesignator]
+                                                              ) [SingleTerm]
+                                                              MulOpMul(
+                                                              ) [MulOpMul]
+                                                              FactorDesignator(
+                                                                DesignatorNamed(
+                                                                 pet
+                                                                ) [DesignatorNamed]
+                                                              ) [FactorDesignator]
+                                                            ) [MultipleTerm]
+                                                          ) [ExprInfoSingle]
+                                                        ) [ExprInfoMoreOnly]
+                                                      ) [SignExpression]
+                                                    ) [DesignatorStmtAssignOp]
+                                                  ) [DesingatorStatementAssignOpClass]
+                                                ) [DesignatorSingleStmt]
+                                              ) [SingleStmt]
+                                            ) [StmtList]
+                                            SingleStmt(
+                                              DesignatorSingleStmt(
+                                                DesignatorStatementClass(
+                                                  DesignatorDecrement(
+                                                    DesignatorNamed(
+                                                     bodovi
+                                                    ) [DesignatorNamed]
+                                                  ) [DesignatorDecrement]
+                                                ) [DesignatorStatementClass]
+                                              ) [DesignatorSingleStmt]
+                                            ) [SingleStmt]
+                                          ) [StmtList]
+                                          SingleStmt(
+                                            PrintSingleStmt(
+                                              PrintSingleStmtExpr(
+                                                SignExpression(
+                                                  ExprInfoMoreOnly(
+                                                    NoExprSign(
+                                                    ) [NoExprSign]
+                                                    ExprInfoSingle(
+                                                      SingleTerm(
+                                                        FactorDesignator(
+                                                          DesignatorNamed(
+                                                           bodovi
+                                                          ) [DesignatorNamed]
+                                                        ) [FactorDesignator]
+                                                      ) [SingleTerm]
+                                                    ) [ExprInfoSingle]
+                                                  ) [ExprInfoMoreOnly]
+                                                ) [SignExpression]
+                                              ) [PrintSingleStmtExpr]
+                                            ) [PrintSingleStmt]
+                                          ) [SingleStmt]
+                                        ) [StmtList]
+                                        SingleStmt(
+                                          DesignatorSingleStmt(
+                                            DesingatorStatementAssignOpClass(
+                                              DesignatorStmtAssignOp(
+                                                DesignatorNamed(
+                                                 niz
+                                                ) [DesignatorNamed]
+                                                AssignOp(
+                                                ) [AssignOp]
+                                                SignExpression(
+                                                  ExprInfoMoreOnly(
+                                                    NoExprSign(
+                                                    ) [NoExprSign]
+                                                    ExprInfoSingle(
+                                                      SingleTerm(
+                                                        FactorNew(
+                                                          Type(
+                                                           int
+                                                          ) [Type]
+                                                          FactorNewParams(
+                                                            SignExpression(
+                                                              ExprInfoMoreOnly(
+                                                                NoExprSign(
+                                                                ) [NoExprSign]
+                                                                ExprInfoSingle(
+                                                                  SingleTerm(
+                                                                    FactorConst(
+                                                                      NumConst(
+                                                                       3
+                                                                      ) [NumConst]
+                                                                    ) [FactorConst]
+                                                                  ) [SingleTerm]
+                                                                ) [ExprInfoSingle]
+                                                              ) [ExprInfoMoreOnly]
+                                                            ) [SignExpression]
+                                                          ) [FactorNewParams]
+                                                        ) [FactorNew]
+                                                      ) [SingleTerm]
+                                                    ) [ExprInfoSingle]
+                                                  ) [ExprInfoMoreOnly]
+                                                ) [SignExpression]
+                                              ) [DesignatorStmtAssignOp]
+                                            ) [DesingatorStatementAssignOpClass]
+                                          ) [DesignatorSingleStmt]
+                                        ) [SingleStmt]
+                                      ) [StmtList]
+                                      SingleStmt(
+                                        DesignatorSingleStmt(
+                                          DesingatorStatementAssignOpClass(
+                                            DesignatorStmtAssignOp(
+                                              DesignatorArray(
+                                                DesignatorNamed(
+                                                 niz
+                                                ) [DesignatorNamed]
+                                                SignExpression(
+                                                  ExprInfoMoreOnly(
+                                                    NoExprSign(
+                                                    ) [NoExprSign]
+                                                    ExprInfoSingle(
+                                                      SingleTerm(
+                                                        FactorDesignator(
+                                                          DesignatorNamed(
+                                                           nula
+                                                          ) [DesignatorNamed]
+                                                        ) [FactorDesignator]
+                                                      ) [SingleTerm]
+                                                    ) [ExprInfoSingle]
+                                                  ) [ExprInfoMoreOnly]
+                                                ) [SignExpression]
+                                              ) [DesignatorArray]
+                                              AssignOp(
+                                              ) [AssignOp]
+                                              SignExpression(
+                                                ExprInfoMoreOnly(
+                                                  NoExprSign(
+                                                  ) [NoExprSign]
+                                                  ExprInfoSingle(
+                                                    SingleTerm(
+                                                      FactorDesignator(
+                                                        DesignatorNamed(
+                                                         jedan
+                                                        ) [DesignatorNamed]
+                                                      ) [FactorDesignator]
+                                                    ) [SingleTerm]
+                                                  ) [ExprInfoSingle]
+                                                ) [ExprInfoMoreOnly]
+                                              ) [SignExpression]
+                                            ) [DesignatorStmtAssignOp]
+                                          ) [DesingatorStatementAssignOpClass]
+                                        ) [DesignatorSingleStmt]
+                                      ) [SingleStmt]
+                                    ) [StmtList]
+                                    SingleStmt(
+                                      DesignatorSingleStmt(
+                                        DesingatorStatementAssignOpClass(
+                                          DesignatorStmtAssignOp(
+                                            DesignatorArray(
+                                              DesignatorNamed(
+                                               niz
+                                              ) [DesignatorNamed]
+                                              SignExpression(
+                                                ExprInfoMoreOnly(
+                                                  NoExprSign(
+                                                  ) [NoExprSign]
+                                                  ExprInfoSingle(
+                                                    SingleTerm(
+                                                      FactorConst(
+                                                        NumConst(
+                                                         1
+                                                        ) [NumConst]
+                                                      ) [FactorConst]
+                                                    ) [SingleTerm]
+                                                  ) [ExprInfoSingle]
+                                                ) [ExprInfoMoreOnly]
+                                              ) [SignExpression]
+                                            ) [DesignatorArray]
+                                            AssignOp(
+                                            ) [AssignOp]
+                                            SignExpression(
+                                              ExprInfoMoreOnly(
+                                                NoExprSign(
+                                                ) [NoExprSign]
+                                                ExprInfoSingle(
+                                                  SingleTerm(
+                                                    FactorConst(
+                                                      NumConst(
+                                                       2
+                                                      ) [NumConst]
+                                                    ) [FactorConst]
+                                                  ) [SingleTerm]
+                                                ) [ExprInfoSingle]
+                                              ) [ExprInfoMoreOnly]
+                                            ) [SignExpression]
+                                          ) [DesignatorStmtAssignOp]
+                                        ) [DesingatorStatementAssignOpClass]
+                                      ) [DesignatorSingleStmt]
+                                    ) [SingleStmt]
+                                  ) [StmtList]
+                                  SingleStmt(
+                                    DesignatorSingleStmt(
+                                      DesingatorStatementAssignOpClass(
+                                        DesignatorStmtAssignOp(
+                                          DesignatorArray(
+                                            DesignatorNamed(
+                                             niz
+                                            ) [DesignatorNamed]
+                                            SignExpression(
+                                              ExprInfoMoreOnly(
+                                                NoExprSign(
+                                                ) [NoExprSign]
+                                                ExprInfoSingle(
+                                                  SingleTerm(
+                                                    FactorDesignator(
+                                                      DesignatorArray(
+                                                        DesignatorNamed(
+                                                         niz
+                                                        ) [DesignatorNamed]
+                                                        SignExpression(
+                                                          ExprInfoMoreOnly(
+                                                            NoExprSign(
+                                                            ) [NoExprSign]
+                                                            ExprInfoSingle(
+                                                              SingleTerm(
+                                                                FactorDesignator(
+                                                                  DesignatorNamed(
+                                                                   jedan
+                                                                  ) [DesignatorNamed]
+                                                                ) [FactorDesignator]
+                                                              ) [SingleTerm]
+                                                            ) [ExprInfoSingle]
+                                                          ) [ExprInfoMoreOnly]
+                                                        ) [SignExpression]
+                                                      ) [DesignatorArray]
+                                                    ) [FactorDesignator]
+                                                  ) [SingleTerm]
+                                                ) [ExprInfoSingle]
+                                              ) [ExprInfoMoreOnly]
+                                            ) [SignExpression]
+                                          ) [DesignatorArray]
+                                          AssignOp(
+                                          ) [AssignOp]
+                                          SignExpression(
+                                            ExprInfoMoreOnly(
+                                              NoExprSign(
+                                              ) [NoExprSign]
+                                              ExprInfoSingle(
+                                                MultipleTerm(
+                                                  SingleTerm(
+                                                    FactorDesignator(
+                                                      DesignatorArray(
+                                                        DesignatorNamed(
+                                                         niz
+                                                        ) [DesignatorNamed]
+                                                        SignExpression(
+                                                          ExprInfoMoreOnly(
+                                                            NoExprSign(
+                                                            ) [NoExprSign]
+                                                            ExprInfoSingle(
+                                                              SingleTerm(
+                                                                FactorDesignator(
+                                                                  DesignatorArray(
+                                                                    DesignatorNamed(
+                                                                     niz
+                                                                    ) [DesignatorNamed]
+                                                                    SignExpression(
+                                                                      ExprInfoMoreOnly(
+                                                                        NoExprSign(
+                                                                        ) [NoExprSign]
+                                                                        ExprInfoSingle(
+                                                                          SingleTerm(
+                                                                            FactorConst(
+                                                                              NumConst(
+                                                                               0
+                                                                              ) [NumConst]
+                                                                            ) [FactorConst]
+                                                                          ) [SingleTerm]
+                                                                        ) [ExprInfoSingle]
+                                                                      ) [ExprInfoMoreOnly]
+                                                                    ) [SignExpression]
+                                                                  ) [DesignatorArray]
+                                                                ) [FactorDesignator]
+                                                              ) [SingleTerm]
+                                                            ) [ExprInfoSingle]
+                                                          ) [ExprInfoMoreOnly]
+                                                        ) [SignExpression]
+                                                      ) [DesignatorArray]
+                                                    ) [FactorDesignator]
+                                                  ) [SingleTerm]
+                                                  MulOpMul(
+                                                  ) [MulOpMul]
+                                                  FactorConst(
+                                                    NumConst(
+                                                     3
+                                                    ) [NumConst]
+                                                  ) [FactorConst]
+                                                ) [MultipleTerm]
+                                              ) [ExprInfoSingle]
+                                            ) [ExprInfoMoreOnly]
+                                          ) [SignExpression]
+                                        ) [DesignatorStmtAssignOp]
+                                      ) [DesingatorStatementAssignOpClass]
+                                    ) [DesignatorSingleStmt]
+                                  ) [SingleStmt]
+                                ) [StmtList]
+                                SingleStmt(
+                                  DesignatorSingleStmt(
+                                    DesingatorStatementAssignOpClass(
+                                      DesignatorStmtAssignOp(
+                                        DesignatorNamed(
+                                         bodovi
+                                        ) [DesignatorNamed]
+                                        AssignOp(
+                                        ) [AssignOp]
+                                        SignExpression(
+                                          ExprInfoMoreOnly(
+                                            NoExprSign(
+                                            ) [NoExprSign]
+                                            ExprInfoSingle(
+                                              MultipleTerm(
+                                                SingleTerm(
+                                                  FactorDesignator(
+                                                    DesignatorArray(
+                                                      DesignatorNamed(
+                                                       niz
+                                                      ) [DesignatorNamed]
+                                                      SignExpression(
+                                                        ExprInfoMoreOnly(
+                                                          NoExprSign(
+                                                          ) [NoExprSign]
+                                                          ExprInfoSingle(
+                                                            SingleTerm(
+                                                              FactorConst(
+                                                                NumConst(
+                                                                 2
+                                                                ) [NumConst]
+                                                              ) [FactorConst]
+                                                            ) [SingleTerm]
+                                                          ) [ExprInfoSingle]
+                                                        ) [ExprInfoMoreOnly]
+                                                      ) [SignExpression]
+                                                    ) [DesignatorArray]
+                                                  ) [FactorDesignator]
+                                                ) [SingleTerm]
+                                                MulOpDiv(
+                                                ) [MulOpDiv]
+                                                FactorDesignator(
+                                                  DesignatorArray(
+                                                    DesignatorNamed(
+                                                     niz
+                                                    ) [DesignatorNamed]
+                                                    SignExpression(
+                                                      ExprInfoMoreOnly(
+                                                        NoExprSign(
+                                                        ) [NoExprSign]
+                                                        ExprInfoSingle(
+                                                          SingleTerm(
+                                                            FactorConst(
+                                                              NumConst(
+                                                               0
+                                                              ) [NumConst]
+                                                            ) [FactorConst]
+                                                          ) [SingleTerm]
+                                                        ) [ExprInfoSingle]
+                                                      ) [ExprInfoMoreOnly]
+                                                    ) [SignExpression]
+                                                  ) [DesignatorArray]
+                                                ) [FactorDesignator]
+                                              ) [MultipleTerm]
+                                            ) [ExprInfoSingle]
+                                          ) [ExprInfoMoreOnly]
+                                        ) [SignExpression]
+                                      ) [DesignatorStmtAssignOp]
+                                    ) [DesingatorStatementAssignOpClass]
+                                  ) [DesignatorSingleStmt]
+                                ) [SingleStmt]
+                              ) [StmtList]
+                              SingleStmt(
+                                PrintSingleStmt(
+                                  PrintSingleStmtExpr(
+                                    SignExpression(
+                                      ExprInfoMoreOnly(
+                                        NoExprSign(
+                                        ) [NoExprSign]
+                                        ExprInfoSingle(
+                                          SingleTerm(
+                                            FactorDesignator(
+                                              DesignatorNamed(
+                                               bodovi
+                                              ) [DesignatorNamed]
+                                            ) [FactorDesignator]
+                                          ) [SingleTerm]
+                                        ) [ExprInfoSingle]
+                                      ) [ExprInfoMoreOnly]
+                                    ) [SignExpression]
+                                  ) [PrintSingleStmtExpr]
+                                ) [PrintSingleStmt]
+                              ) [SingleStmt]
+                            ) [StmtList]
+                            SingleStmt(
+                              PrintSingleStmt(
+                                PrintSingleStmtExpr(
+                                  SignExpression(
+                                    ExprInfoMoreOnly(
+                                      NoExprSign(
+                                      ) [NoExprSign]
+                                      ExprInfoSingle(
+                                        SingleTerm(
+                                          FactorDesignator(
+                                            DesignatorArray(
+                                              DesignatorNamed(
+                                               niz
+                                              ) [DesignatorNamed]
+                                              SignExpression(
+                                                ExprInfoMoreOnly(
+                                                  NoExprSign(
+                                                  ) [NoExprSign]
+                                                  ExprInfoSingle(
+                                                    SingleTerm(
+                                                      FactorConst(
+                                                        NumConst(
+                                                         2
+                                                        ) [NumConst]
+                                                      ) [FactorConst]
+                                                    ) [SingleTerm]
+                                                  ) [ExprInfoSingle]
+                                                ) [ExprInfoMoreOnly]
+                                              ) [SignExpression]
+                                            ) [DesignatorArray]
+                                          ) [FactorDesignator]
+                                        ) [SingleTerm]
+                                      ) [ExprInfoSingle]
+                                    ) [ExprInfoMoreOnly]
+                                  ) [SignExpression]
+                                ) [PrintSingleStmtExpr]
+                              ) [PrintSingleStmt]
+                            ) [SingleStmt]
+                          ) [StmtList]
+                          SingleStmt(
+                            DesignatorSingleStmt(
+                              DesingatorStatementAssignOpClass(
+                                DesignatorStmtAssignOp(
+                                  DesignatorNamed(
+                                   nizch
+                                  ) [DesignatorNamed]
+                                  AssignOp(
+                                  ) [AssignOp]
+                                  SignExpression(
+                                    ExprInfoMoreOnly(
+                                      NoExprSign(
+                                      ) [NoExprSign]
+                                      ExprInfoSingle(
+                                        SingleTerm(
+                                          FactorNew(
+                                            Type(
+                                             char
+                                            ) [Type]
+                                            FactorNewParams(
+                                              SignExpression(
+                                                ExprInfoMoreOnly(
+                                                  NoExprSign(
+                                                  ) [NoExprSign]
+                                                  ExprInfoSingle(
+                                                    SingleTerm(
+                                                      FactorConst(
+                                                        NumConst(
+                                                         3
+                                                        ) [NumConst]
+                                                      ) [FactorConst]
+                                                    ) [SingleTerm]
+                                                  ) [ExprInfoSingle]
+                                                ) [ExprInfoMoreOnly]
+                                              ) [SignExpression]
+                                            ) [FactorNewParams]
+                                          ) [FactorNew]
+                                        ) [SingleTerm]
+                                      ) [ExprInfoSingle]
+                                    ) [ExprInfoMoreOnly]
+                                  ) [SignExpression]
+                                ) [DesignatorStmtAssignOp]
+                              ) [DesingatorStatementAssignOpClass]
+                            ) [DesignatorSingleStmt]
+                          ) [SingleStmt]
+                        ) [StmtList]
+                        SingleStmt(
+                          DesignatorSingleStmt(
+                            DesingatorStatementAssignOpClass(
+                              DesignatorStmtAssignOp(
+                                DesignatorArray(
+                                  DesignatorNamed(
+                                   nizch
+                                  ) [DesignatorNamed]
+                                  SignExpression(
+                                    ExprInfoMoreOnly(
+                                      NoExprSign(
+                                      ) [NoExprSign]
+                                      ExprInfoSingle(
+                                        SingleTerm(
+                                          FactorConst(
+                                            NumConst(
+                                             0
+                                            ) [NumConst]
+                                          ) [FactorConst]
+                                        ) [SingleTerm]
+                                      ) [ExprInfoSingle]
+                                    ) [ExprInfoMoreOnly]
+                                  ) [SignExpression]
+                                ) [DesignatorArray]
+                                AssignOp(
+                                ) [AssignOp]
+                                SignExpression(
+                                  ExprInfoMoreOnly(
+                                    NoExprSign(
+                                    ) [NoExprSign]
+                                    ExprInfoSingle(
+                                      SingleTerm(
+                                        FactorConst(
+                                          CharConst(
+                                           a
+                                          ) [CharConst]
+                                        ) [FactorConst]
+                                      ) [SingleTerm]
+                                    ) [ExprInfoSingle]
+                                  ) [ExprInfoMoreOnly]
+                                ) [SignExpression]
+                              ) [DesignatorStmtAssignOp]
+                            ) [DesingatorStatementAssignOpClass]
+                          ) [DesignatorSingleStmt]
+                        ) [SingleStmt]
+                      ) [StmtList]
+                      SingleStmt(
+                        DesignatorSingleStmt(
+                          DesingatorStatementAssignOpClass(
+                            DesignatorStmtAssignOp(
+                              DesignatorArray(
+                                DesignatorNamed(
+                                 nizch
+                                ) [DesignatorNamed]
+                                SignExpression(
+                                  ExprInfoMoreOnly(
+                                    NoExprSign(
+                                    ) [NoExprSign]
+                                    ExprInfoSingle(
+                                      SingleTerm(
+                                        FactorDesignator(
+                                          DesignatorNamed(
+                                           jedan
+                                          ) [DesignatorNamed]
+                                        ) [FactorDesignator]
+                                      ) [SingleTerm]
+                                    ) [ExprInfoSingle]
+                                  ) [ExprInfoMoreOnly]
+                                ) [SignExpression]
+                              ) [DesignatorArray]
+                              AssignOp(
+                              ) [AssignOp]
+                              SignExpression(
+                                ExprInfoMoreOnly(
+                                  NoExprSign(
+                                  ) [NoExprSign]
+                                  ExprInfoSingle(
+                                    SingleTerm(
+                                      FactorConst(
+                                        CharConst(
+                                         b
+                                        ) [CharConst]
+                                      ) [FactorConst]
+                                    ) [SingleTerm]
+                                  ) [ExprInfoSingle]
+                                ) [ExprInfoMoreOnly]
+                              ) [SignExpression]
+                            ) [DesignatorStmtAssignOp]
+                          ) [DesingatorStatementAssignOpClass]
+                        ) [DesignatorSingleStmt]
+                      ) [SingleStmt]
+                    ) [StmtList]
+                    SingleStmt(
+                      DesignatorSingleStmt(
+                        DesingatorStatementAssignOpClass(
+                          DesignatorStmtAssignOp(
+                            DesignatorArray(
+                              DesignatorNamed(
+                               nizch
+                              ) [DesignatorNamed]
+                              SignExpression(
+                                ExprInfoMoreOnly(
+                                  NoExprSign(
+                                  ) [NoExprSign]
+                                  ExprInfoMultiple(
+                                    ExprInfoSingle(
+                                      SingleTerm(
+                                        FactorDesignator(
+                                          DesignatorNamed(
+                                           pet
+                                          ) [DesignatorNamed]
+                                        ) [FactorDesignator]
+                                      ) [SingleTerm]
+                                    ) [ExprInfoSingle]
+                                    AddOpMinus(
+                                    ) [AddOpMinus]
+                                    SingleTerm(
+                                      FactorConst(
+                                        NumConst(
+                                         3
+                                        ) [NumConst]
+                                      ) [FactorConst]
+                                    ) [SingleTerm]
+                                  ) [ExprInfoMultiple]
+                                ) [ExprInfoMoreOnly]
+                              ) [SignExpression]
+                            ) [DesignatorArray]
+                            AssignOp(
+                            ) [AssignOp]
+                            SignExpression(
+                              ExprInfoMoreOnly(
+                                NoExprSign(
+                                ) [NoExprSign]
+                                ExprInfoSingle(
+                                  SingleTerm(
+                                    FactorConst(
+                                      CharConst(
+                                       c
+                                      ) [CharConst]
+                                    ) [FactorConst]
+                                  ) [SingleTerm]
+                                ) [ExprInfoSingle]
+                              ) [ExprInfoMoreOnly]
+                            ) [SignExpression]
+                          ) [DesignatorStmtAssignOp]
+                        ) [DesingatorStatementAssignOpClass]
+                      ) [DesignatorSingleStmt]
+                    ) [SingleStmt]
+                  ) [StmtList]
+                  SingleStmt(
+                    PrintSingleStmt(
+                      PrintSingleStmtExpr(
+                        SignExpression(
+                          ExprInfoMoreOnly(
+                            NoExprSign(
+                            ) [NoExprSign]
+                            ExprInfoSingle(
+                              SingleTerm(
+                                FactorDesignator(
+                                  DesignatorArray(
+                                    DesignatorNamed(
+                                     nizch
+                                    ) [DesignatorNamed]
+                                    SignExpression(
+                                      ExprInfoMoreOnly(
+                                        NoExprSign(
+                                        ) [NoExprSign]
+                                        ExprInfoSingle(
+                                          SingleTerm(
+                                            FactorConst(
+                                              NumConst(
+                                               1
+                                              ) [NumConst]
+                                            ) [FactorConst]
+                                          ) [SingleTerm]
+                                        ) [ExprInfoSingle]
+                                      ) [ExprInfoMoreOnly]
+                                    ) [SignExpression]
+                                  ) [DesignatorArray]
+                                ) [FactorDesignator]
+                              ) [SingleTerm]
+                            ) [ExprInfoSingle]
+                          ) [ExprInfoMoreOnly]
+                        ) [SignExpression]
+                      ) [PrintSingleStmtExpr]
+                    ) [PrintSingleStmt]
+                  ) [SingleStmt]
+                ) [StmtList]
+                SingleStmt(
+                  PrintSingleStmt(
+                    PrintSingleStmtExpr(
+                      SignExpression(
+                        ExprInfoMoreOnly(
+                          NoExprSign(
+                          ) [NoExprSign]
+                          ExprInfoSingle(
+                            SingleTerm(
+                              FactorDesignator(
+                                DesignatorArray(
+                                  DesignatorNamed(
+                                   nizch
+                                  ) [DesignatorNamed]
+                                  SignExpression(
+                                    ExprInfoMoreOnly(
+                                      NoExprSign(
+                                      ) [NoExprSign]
+                                      ExprInfoSingle(
+                                        MultipleTerm(
+                                          SingleTerm(
+                                            FactorDesignator(
+                                              DesignatorNamed(
+                                               jedan
+                                              ) [DesignatorNamed]
+                                            ) [FactorDesignator]
+                                          ) [SingleTerm]
+                                          MulOpMul(
+                                          ) [MulOpMul]
+                                          FactorConst(
+                                            NumConst(
+                                             2
+                                            ) [NumConst]
+                                          ) [FactorConst]
+                                        ) [MultipleTerm]
+                                      ) [ExprInfoSingle]
+                                    ) [ExprInfoMoreOnly]
+                                  ) [SignExpression]
+                                ) [DesignatorArray]
+                              ) [FactorDesignator]
+                            ) [SingleTerm]
+                          ) [ExprInfoSingle]
+                        ) [ExprInfoMoreOnly]
+                      ) [SignExpression]
+                    ) [PrintSingleStmtExpr]
+                  ) [PrintSingleStmt]
+                ) [SingleStmt]
+              ) [StmtList]
+              SingleStmt(
+                DesignatorSingleStmt(
+                  DesingatorStatementAssignOpClass(
+                    DesignatorStmtAssignOp(
+                      DesignatorNamed(
+                       bodovi
+                      ) [DesignatorNamed]
+                      AssignOp(
+                      ) [AssignOp]
+                      SignExpression(
+                        ExprInfoMoreOnly(
+                          NoExprSign(
+                          ) [NoExprSign]
+                          ExprInfoMultiple(
+                            ExprInfoMultiple(
+                              ExprInfoSingle(
+                                SingleTerm(
+                                  FactorDesignator(
+                                    DesignatorNamed(
+                                     bodovi
+                                    ) [DesignatorNamed]
+                                  ) [FactorDesignator]
+                                ) [SingleTerm]
+                              ) [ExprInfoSingle]
+                              AddOpPlus(
+                              ) [AddOpPlus]
+                              MultipleTerm(
+                                SingleTerm(
+                                  FactorExpr(
+                                    SignExpression(
+                                      ExprInfoMoreOnly(
+                                        NoExprSign(
+                                        ) [NoExprSign]
+                                        ExprInfoMultiple(
+                                          ExprInfoSingle(
+                                            MultipleTerm(
+                                              SingleTerm(
+                                                FactorDesignator(
+                                                  DesignatorNamed(
+                                                   pet
+                                                  ) [DesignatorNamed]
+                                                ) [FactorDesignator]
+                                              ) [SingleTerm]
+                                              MulOpMul(
+                                              ) [MulOpMul]
+                                              FactorDesignator(
+                                                DesignatorNamed(
+                                                 jedan
+                                                ) [DesignatorNamed]
+                                              ) [FactorDesignator]
+                                            ) [MultipleTerm]
+                                          ) [ExprInfoSingle]
+                                          AddOpMinus(
+                                          ) [AddOpMinus]
+                                          SingleTerm(
+                                            FactorConst(
+                                              NumConst(
+                                               1
+                                              ) [NumConst]
+                                            ) [FactorConst]
+                                          ) [SingleTerm]
+                                        ) [ExprInfoMultiple]
+                                      ) [ExprInfoMoreOnly]
+                                    ) [SignExpression]
+                                  ) [FactorExpr]
+                                ) [SingleTerm]
+                                MulOpMul(
+                                ) [MulOpMul]
+                                FactorDesignator(
+                                  DesignatorNamed(
+                                   bodovi
+                                  ) [DesignatorNamed]
+                                ) [FactorDesignator]
+                              ) [MultipleTerm]
+                            ) [ExprInfoMultiple]
+                            AddOpMinus(
+                            ) [AddOpMinus]
+                            SingleTerm(
+                              FactorExpr(
+                                SignExpression(
+                                  ExprInfoMoreOnly(
+                                    NoExprSign(
+                                    ) [NoExprSign]
+                                    ExprInfoMultiple(
+                                      ExprInfoMultiple(
+                                        ExprInfoSingle(
+                                          MultipleTerm(
+                                            SingleTerm(
+                                              FactorConst(
+                                                NumConst(
+                                                 3
+                                                ) [NumConst]
+                                              ) [FactorConst]
+                                            ) [SingleTerm]
+                                            MulOpMod(
+                                            ) [MulOpMod]
+                                            FactorConst(
+                                              NumConst(
+                                               2
+                                              ) [NumConst]
+                                            ) [FactorConst]
+                                          ) [MultipleTerm]
+                                        ) [ExprInfoSingle]
+                                        AddOpPlus(
+                                        ) [AddOpPlus]
+                                        MultipleTerm(
+                                          SingleTerm(
+                                            FactorConst(
+                                              NumConst(
+                                               3
+                                              ) [NumConst]
+                                            ) [FactorConst]
+                                          ) [SingleTerm]
+                                          MulOpMul(
+                                          ) [MulOpMul]
+                                          FactorConst(
+                                            NumConst(
+                                             2
+                                            ) [NumConst]
+                                          ) [FactorConst]
+                                        ) [MultipleTerm]
+                                      ) [ExprInfoMultiple]
+                                      AddOpMinus(
+                                      ) [AddOpMinus]
+                                      SingleTerm(
+                                        FactorConst(
+                                          NumConst(
+                                           3
+                                          ) [NumConst]
+                                        ) [FactorConst]
+                                      ) [SingleTerm]
+                                    ) [ExprInfoMultiple]
+                                  ) [ExprInfoMoreOnly]
+                                ) [SignExpression]
+                              ) [FactorExpr]
+                            ) [SingleTerm]
+                          ) [ExprInfoMultiple]
+                        ) [ExprInfoMoreOnly]
+                      ) [SignExpression]
+                    ) [DesignatorStmtAssignOp]
+                  ) [DesingatorStatementAssignOpClass]
+                ) [DesignatorSingleStmt]
+              ) [SingleStmt]
+            ) [StmtList]
+            SingleStmt(
+              PrintSingleStmt(
+                PrintSingleStmtExpr(
+                  SignExpression(
+                    ExprInfoMoreOnly(
+                      NoExprSign(
+                      ) [NoExprSign]
+                      ExprInfoSingle(
+                        SingleTerm(
+                          FactorDesignator(
+                            DesignatorNamed(
+                             bodovi
+                            ) [DesignatorNamed]
+                          ) [FactorDesignator]
+                        ) [SingleTerm]
+                      ) [ExprInfoSingle]
+                    ) [ExprInfoMoreOnly]
+                  ) [SignExpression]
+                ) [PrintSingleStmtExpr]
+              ) [PrintSingleStmt]
+            ) [SingleStmt]
+          ) [StmtList]
+          SingleStmt(
+            ReadSingleStmt(
+              DesignatorNamed(
+               bodovi
+              ) [DesignatorNamed]
+            ) [ReadSingleStmt]
+          ) [SingleStmt]
+        ) [StmtList]
+        SingleStmt(
+          PrintSingleStmt(
+            PrintSingleStmtExpr(
+              SignExpression(
+                ExprInfoMoreOnly(
+                  NoExprSign(
+                  ) [NoExprSign]
+                  ExprInfoSingle(
+                    SingleTerm(
+                      FactorDesignator(
+                        DesignatorNamed(
+                         bodovi
+                        ) [DesignatorNamed]
+                      ) [FactorDesignator]
+                    ) [SingleTerm]
+                  ) [ExprInfoSingle]
+                ) [ExprInfoMoreOnly]
+              ) [SignExpression]
+            ) [PrintSingleStmtExpr]
+          ) [PrintSingleStmt]
+        ) [SingleStmt]
+      ) [StmtList]
+    ) [MethodDeclaration]
+  ) [MethodDeclarations]
+) [Program]
+INFO  18:27:15,656 - ===================================
+INFO  18:27:15,670 - start main na liniji 3
+INFO  18:27:15,670 - Type: int na liniji 5
+INFO  18:27:15,670 - Const adr: 0 na liniji 5
+INFO  18:27:15,670 - Type: int na liniji 6
+INFO  18:27:15,670 - Const adr: 1 na liniji 6
+INFO  18:27:15,671 - Type: int na liniji 7
+INFO  18:27:15,671 - Const adr: 5 na liniji 7
+INFO  18:27:15,671 - Type: int na liniji 9
+INFO  18:27:15,671 - Variable niz declared
+INFO  18:27:15,671 - Type: char na liniji 10
+INFO  18:27:15,671 - Variable nizch declared
+INFO  18:27:15,671 - start method main na liniji 13
+INFO  18:27:15,671 - Type: int na liniji 14
+INFO  18:27:15,671 - Variable bodovi declared
+INFO  18:27:15,672 - Type: bool na liniji 15
+INFO  18:27:15,674 - Variable bt declared
+INFO  18:27:15,674 - Increment on variable bodovi na liniji 19
+INFO  18:27:15,674 - Decrement on variable bodovi na liniji 22

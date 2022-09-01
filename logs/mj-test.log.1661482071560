@@ -1,0 +1,246 @@
+INFO  04:47:16,252 - Compiling source file: C:\Users\andri\Desktop\pp1_domaci\workspace\MJCompiler\test\test301_A.mj
+INFO  04:47:16,311 - #2 program
+INFO  04:47:16,311 - #47 test301
+INFO  04:47:16,311 - #47 int
+INFO  04:47:16,313 - #47 x
+INFO  04:47:16,313 - #44 ,
+INFO  04:47:16,313 - #47 y
+INFO  04:47:16,314 - #46 ;
+INFO  04:47:16,314 - #47 bool
+INFO  04:47:16,314 - #47 z
+INFO  04:47:16,315 - #46 ;
+INFO  04:47:16,315 - #39 {
+INFO  04:47:16,315 - #13 void
+INFO  04:47:16,315 - #47 main
+INFO  04:47:16,316 - #37 (
+INFO  04:47:16,316 - #38 )
+INFO  04:47:16,317 - #39 {
+INFO  04:47:16,317 - #47 x
+INFO  04:47:16,318 - #23 =
+INFO  04:47:16,318 - #48 1
+INFO  04:47:16,320 - #46 ;
+INFO  04:47:16,320 - #6 if
+INFO  04:47:16,321 - #37 (
+INFO  04:47:16,322 - #47 x
+INFO  04:47:16,322 - #29 ==
+INFO  04:47:16,322 - #48 1
+INFO  04:47:16,323 - #38 )
+INFO  04:47:16,323 - #47 x
+INFO  04:47:16,323 - #23 =
+INFO  04:47:16,323 - #48 2
+INFO  04:47:16,323 - #46 ;
+INFO  04:47:16,323 - #10 print
+INFO  04:47:16,324 - #37 (
+INFO  04:47:16,324 - #47 x
+INFO  04:47:16,324 - #38 )
+INFO  04:47:16,324 - #46 ;
+INFO  04:47:16,324 - #40 }
+INFO  04:47:16,324 - #40 }
+INFO  04:47:16,330 - Program(
+  ProgramName(
+   test301
+  ) [ProgramName]
+  ProgramVarDeclarations(
+    ProgramVarDeclarations(
+      NoProgramVarDeclarations(
+      ) [NoProgramVarDeclarations]
+      VarProgramVarDeclaration(
+        GlobalVarDeclaration(
+          VarDecl(
+            Type(
+             int
+            ) [Type]
+            VarNamesList(
+              VarNameSingle(
+                VarNamePartSingle(
+                 x
+                ) [VarNamePartSingle]
+              ) [VarNameSingle]
+              VarNamePartSingle(
+               y
+              ) [VarNamePartSingle]
+            ) [VarNamesList]
+          ) [VarDecl]
+        ) [GlobalVarDeclaration]
+      ) [VarProgramVarDeclaration]
+    ) [ProgramVarDeclarations]
+    VarProgramVarDeclaration(
+      GlobalVarDeclaration(
+        VarDecl(
+          Type(
+           bool
+          ) [Type]
+          VarNameSingle(
+            VarNamePartSingle(
+             z
+            ) [VarNamePartSingle]
+          ) [VarNameSingle]
+        ) [VarDecl]
+      ) [GlobalVarDeclaration]
+    ) [VarProgramVarDeclaration]
+  ) [ProgramVarDeclarations]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodReturnVoid(
+      ) [MethodReturnVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoMethodParams(
+      ) [NoMethodParams]
+      NoVarDeclarationList(
+      ) [NoVarDeclarationList]
+      StmtList(
+        StmtList(
+          StmtList(
+            NoStmtList(
+            ) [NoStmtList]
+            SingleStmt(
+              DesignatorSingleStmt(
+                DesingatorStatementAssignOpClass(
+                  DesignatorStmtAssignOp(
+                    DesignatorNamed(
+                     x
+                    ) [DesignatorNamed]
+                    AssignOp(
+                    ) [AssignOp]
+                    SignExpression(
+                      ExprInfoMoreOnly(
+                        NoExprSign(
+                        ) [NoExprSign]
+                        ExprInfoSingle(
+                          SingleTerm(
+                            FactorConst(
+                              NumConst(
+                               1
+                              ) [NumConst]
+                            ) [FactorConst]
+                          ) [SingleTerm]
+                        ) [ExprInfoSingle]
+                      ) [ExprInfoMoreOnly]
+                    ) [SignExpression]
+                  ) [DesignatorStmtAssignOp]
+                ) [DesingatorStatementAssignOpClass]
+              ) [DesignatorSingleStmt]
+            ) [SingleStmt]
+          ) [StmtList]
+          SingleStmt(
+            IfSingleStmt(
+              IfPartSingleStmt(
+                StartIfLooping(
+                ) [StartIfLooping]
+                IfConditionSuccess(
+                  NoOrCondition(
+                    NoAndCondTerm(
+                      CondFactRelOp(
+                        SignExpression(
+                          ExprInfoMoreOnly(
+                            NoExprSign(
+                            ) [NoExprSign]
+                            ExprInfoSingle(
+                              SingleTerm(
+                                FactorDesignator(
+                                  DesignatorNamed(
+                                   x
+                                  ) [DesignatorNamed]
+                                ) [FactorDesignator]
+                              ) [SingleTerm]
+                            ) [ExprInfoSingle]
+                          ) [ExprInfoMoreOnly]
+                        ) [SignExpression]
+                        RelOpEqual(
+                        ) [RelOpEqual]
+                        SignExpression(
+                          ExprInfoMoreOnly(
+                            NoExprSign(
+                            ) [NoExprSign]
+                            ExprInfoSingle(
+                              SingleTerm(
+                                FactorConst(
+                                  NumConst(
+                                   1
+                                  ) [NumConst]
+                                ) [FactorConst]
+                              ) [SingleTerm]
+                            ) [ExprInfoSingle]
+                          ) [ExprInfoMoreOnly]
+                        ) [SignExpression]
+                      ) [CondFactRelOp]
+                    ) [NoAndCondTerm]
+                  ) [NoOrCondition]
+                ) [IfConditionSuccess]
+                SingleStmt(
+                  DesignatorSingleStmt(
+                    DesingatorStatementAssignOpClass(
+                      DesignatorStmtAssignOp(
+                        DesignatorNamed(
+                         x
+                        ) [DesignatorNamed]
+                        AssignOp(
+                        ) [AssignOp]
+                        SignExpression(
+                          ExprInfoMoreOnly(
+                            NoExprSign(
+                            ) [NoExprSign]
+                            ExprInfoSingle(
+                              SingleTerm(
+                                FactorConst(
+                                  NumConst(
+                                   2
+                                  ) [NumConst]
+                                ) [FactorConst]
+                              ) [SingleTerm]
+                            ) [ExprInfoSingle]
+                          ) [ExprInfoMoreOnly]
+                        ) [SignExpression]
+                      ) [DesignatorStmtAssignOp]
+                    ) [DesingatorStatementAssignOpClass]
+                  ) [DesignatorSingleStmt]
+                ) [SingleStmt]
+              ) [IfPartSingleStmt]
+              NoElsePartStmt(
+              ) [NoElsePartStmt]
+            ) [IfSingleStmt]
+          ) [SingleStmt]
+        ) [StmtList]
+        SingleStmt(
+          PrintSingleStmt(
+            PrintSingleStmtExpr(
+              SignExpression(
+                ExprInfoMoreOnly(
+                  NoExprSign(
+                  ) [NoExprSign]
+                  ExprInfoSingle(
+                    SingleTerm(
+                      FactorDesignator(
+                        DesignatorNamed(
+                         x
+                        ) [DesignatorNamed]
+                      ) [FactorDesignator]
+                    ) [SingleTerm]
+                  ) [ExprInfoSingle]
+                ) [ExprInfoMoreOnly]
+              ) [SignExpression]
+            ) [PrintSingleStmtExpr]
+          ) [PrintSingleStmt]
+        ) [SingleStmt]
+      ) [StmtList]
+    ) [MethodDeclaration]
+  ) [MethodDeclarations]
+) [Program]
+INFO  04:47:16,330 - ===================================
+INFO  04:47:16,334 - start main na liniji 3
+INFO  04:47:16,334 - Global variable int x declared
+INFO  04:47:16,334 - Global variable int y declared
+INFO  04:47:16,334 - Global variable bool z declared
+INFO  04:47:16,335 - Method returns void
+INFO  04:47:16,335 - start method main na liniji 8
+INFO  04:47:16,335 - Local variable x used na liniji 10
+INFO  04:47:16,335 - Local variable x used na liniji 11
+INFO  04:47:16,335 - Local variable x used na liniji 12
+INFO  04:47:16,336 - Local variable x used na liniji 13
+INFO  04:47:16,336 - end main na liniji 3
+INFO  04:47:16,336 - ===================================
+INFO  04:47:16,341 - Well done bye

@@ -1,0 +1,21 @@
+INFO  16:32:25,903 - Compiling source file: C:\Users\andri\Desktop\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  16:32:25,906 - #1 program
+INFO  16:32:25,907 - #4 MJProgram
+INFO  16:32:25,907 - #4 int
+INFO  16:32:25,907 - #4 x
+INFO  16:32:25,907 - #8 ,
+INFO  16:32:25,907 - #4 y
+INFO  16:32:25,907 - #9 ;
+INFO  16:32:25,907 - #12 {
+INFO  16:32:25,907 - #15 void
+INFO  16:32:25,907 - #4 main
+INFO  16:32:25,907 - #10 (
+INFO  16:32:25,907 - #11 )
+INFO  16:32:25,907 - #12 {
+INFO  16:32:25,907 - #4 zast
+INFO  16:32:25,907 - #12 {
+INFO  16:32:25,907 - #4 ne
+INFO  16:32:25,908 - #4 rad
+INFO  16:32:25,908 - #11 )
+INFO  16:32:25,908 - #13 }
+INFO  16:32:25,908 - #13 }

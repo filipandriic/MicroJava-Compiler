@@ -1,0 +1,61 @@
+INFO  04:11:33,532 - Compiling source file: C:\Users\andri\Desktop\pp1_domaci\workspace\MJCompiler\test\test301_A.mj
+INFO  04:11:33,594 - #2 program
+INFO  04:11:33,594 - #47 test301
+INFO  04:11:33,594 - #47 int
+INFO  04:11:33,595 - #47 x
+INFO  04:11:33,596 - #44 ,
+INFO  04:11:33,596 - #47 int
+INFO  04:11:33,596 - #47 y
+ERROR 04:11:33,596 - Syntax error na liniji 5
+INFO  04:11:33,596 - #46 ;
+INFO  04:11:33,596 - #39 {
+INFO  04:11:33,597 - #13 void
+INFO  04:11:33,597 - #47 main
+INFO  04:11:33,597 - #37 (
+ERROR 04:11:33,598 - 
+Sintaksna greska : Greska pri definiciji globalne promenljive, linija: 8
+INFO  04:11:33,598 - Uspesno izvrsen oporavak od greske pri definiciji globalne promenljive.
+INFO  04:11:33,599 - #38 )
+INFO  04:11:33,600 - #39 {
+INFO  04:11:33,600 - #47 x
+INFO  04:11:33,601 - #23 =
+INFO  04:11:33,602 - #48 1
+INFO  04:11:33,603 - #46 ;
+INFO  04:11:33,603 - #47 y
+INFO  04:11:33,603 - #23 =
+INFO  04:11:33,604 - #48 1
+INFO  04:11:33,604 - #46 ;
+INFO  04:11:33,604 - #8 do
+INFO  04:11:33,604 - #39 {
+INFO  04:11:33,605 - #47 x
+INFO  04:11:33,605 - #20 ++
+INFO  04:11:33,605 - #46 ;
+INFO  04:11:33,605 - #8 do
+INFO  04:11:33,605 - #39 {
+INFO  04:11:33,605 - #47 y
+INFO  04:11:33,605 - #20 ++
+INFO  04:11:33,605 - #46 ;
+INFO  04:11:33,605 - #40 }
+INFO  04:11:33,606 - #9 while
+INFO  04:11:33,606 - #37 (
+INFO  04:11:33,606 - #47 y
+INFO  04:11:33,606 - #31 <
+INFO  04:11:33,607 - #48 5
+INFO  04:11:33,609 - #38 )
+INFO  04:11:33,610 - #46 ;
+INFO  04:11:33,610 - #40 }
+INFO  04:11:33,610 - #9 while
+INFO  04:11:33,610 - #37 (
+INFO  04:11:33,610 - #47 x
+INFO  04:11:33,610 - #31 <
+INFO  04:11:33,610 - #48 5
+INFO  04:11:33,610 - #38 )
+INFO  04:11:33,611 - #46 ;
+INFO  04:11:33,611 - #10 print
+INFO  04:11:33,611 - #37 (
+INFO  04:11:33,611 - #47 x
+INFO  04:11:33,611 - #38 )
+INFO  04:11:33,611 - #46 ;
+INFO  04:11:33,611 - #40 }
+INFO  04:11:33,611 - #40 }
+ERROR 04:11:33,612 - Syntax failed

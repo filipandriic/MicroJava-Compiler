@@ -1,0 +1,128 @@
+INFO  00:24:29,757 - Compiling source file: C:\Users\andri\Desktop\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  00:24:29,800 - #2 program
+INFO  00:24:29,800 - #47 MJProgram
+INFO  00:24:29,800 - #47 int
+INFO  00:24:29,801 - #47 y
+INFO  00:24:29,801 - #44 ,
+INFO  00:24:29,801 - #47 kk
+INFO  00:24:29,801 - #46 ;
+INFO  00:24:29,802 - #39 {
+INFO  00:24:29,802 - #13 void
+INFO  00:24:29,803 - #47 main
+INFO  00:24:29,803 - #37 (
+INFO  00:24:29,803 - #38 )
+INFO  00:24:29,803 - #39 {
+INFO  00:24:29,804 - #47 y
+INFO  00:24:29,804 - #23 =
+INFO  00:24:29,804 - #48 2
+INFO  00:24:29,806 - #46 ;
+INFO  00:24:29,806 - #47 kk
+INFO  00:24:29,806 - #23 =
+INFO  00:24:29,807 - #48 3
+INFO  00:24:29,807 - #46 ;
+INFO  00:24:29,807 - #40 }
+INFO  00:24:29,807 - #40 }
+INFO  00:24:29,808 - Program(
+  ProgramName(
+   MJProgram
+  ) [ProgramName]
+  ProgramVarDeclarations(
+    NoProgramVarDeclarations(
+    ) [NoProgramVarDeclarations]
+    VarProgramVarDeclaration(
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        VarNamesList(
+          VarNameSingle(
+            VarNamePartSingle(
+             y
+            ) [VarNamePartSingle]
+          ) [VarNameSingle]
+          VarNamePartSingle(
+           kk
+          ) [VarNamePartSingle]
+        ) [VarNamesList]
+      ) [VarDecl]
+    ) [VarProgramVarDeclaration]
+  ) [ProgramVarDeclarations]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodReturnVoid(
+      ) [MethodReturnVoid]
+     main
+      NoMethodParams(
+      ) [NoMethodParams]
+      NoVarDeclList(
+      ) [NoVarDeclList]
+      StmtList(
+        StmtList(
+          NoStmtList(
+          ) [NoStmtList]
+          SingleStmt(
+            DesignatorSingleStmt(
+              DesignatorStatementClass(
+                DesignatorNamed(
+                 y
+                ) [DesignatorNamed]
+                DesignatorAssign(
+                  AssignOp(
+                  ) [AssignOp]
+                  SignExpression(
+                    NoExprSign(
+                    ) [NoExprSign]
+                    ExprInfoMoreOnly(
+                      ExprInfoSingle(
+                        SingleTerm(
+                          FactorConst(
+                            NumConst(
+                             2
+                            ) [NumConst]
+                          ) [FactorConst]
+                        ) [SingleTerm]
+                      ) [ExprInfoSingle]
+                    ) [ExprInfoMoreOnly]
+                  ) [SignExpression]
+                ) [DesignatorAssign]
+              ) [DesignatorStatementClass]
+            ) [DesignatorSingleStmt]
+          ) [SingleStmt]
+        ) [StmtList]
+        SingleStmt(
+          DesignatorSingleStmt(
+            DesignatorStatementClass(
+              DesignatorNamed(
+               kk
+              ) [DesignatorNamed]
+              DesignatorAssign(
+                AssignOp(
+                ) [AssignOp]
+                SignExpression(
+                  NoExprSign(
+                  ) [NoExprSign]
+                  ExprInfoMoreOnly(
+                    ExprInfoSingle(
+                      SingleTerm(
+                        FactorConst(
+                          NumConst(
+                           3
+                          ) [NumConst]
+                        ) [FactorConst]
+                      ) [SingleTerm]
+                    ) [ExprInfoSingle]
+                  ) [ExprInfoMoreOnly]
+                ) [SignExpression]
+              ) [DesignatorAssign]
+            ) [DesignatorStatementClass]
+          ) [DesignatorSingleStmt]
+        ) [SingleStmt]
+      ) [StmtList]
+    ) [MethodDeclaration]
+  ) [MethodDeclarations]
+) [Program]
+INFO  00:24:29,809 - ===================================
+INFO  00:24:29,811 -  Print count calls = 0
+INFO  00:24:29,811 -  Deklarisanih promenljivih ima = 1

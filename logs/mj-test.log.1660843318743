@@ -1,0 +1,123 @@
+INFO  19:20:38,350 - Compiling source file: /Users/filipandric/Desktop/pp1_plsradi/workspace/MJCompiler/test/program.mj
+INFO  19:20:38,396 - #2 program
+INFO  19:20:38,396 - #47 p
+INFO  19:20:38,396 - #47 boolean
+INFO  19:20:38,397 - #47 d
+INFO  19:20:38,397 - #46 ;
+INFO  19:20:38,397 - #5 const
+INFO  19:20:38,398 - #47 boolean
+INFO  19:20:38,398 - #47 a
+INFO  19:20:38,398 - #23 =
+INFO  19:20:38,398 - #48 2
+INFO  19:20:38,398 - #46 ;
+INFO  19:20:38,398 - #39 {
+INFO  19:20:38,399 - #13 void
+INFO  19:20:38,399 - #47 main
+INFO  19:20:38,399 - #37 (
+INFO  19:20:38,399 - #38 )
+INFO  19:20:38,403 - #39 {
+INFO  19:20:38,405 - #47 d
+INFO  19:20:38,406 - #23 =
+INFO  19:20:38,406 - #47 true
+INFO  19:20:38,406 - #46 ;
+INFO  19:20:38,407 - #40 }
+INFO  19:20:38,407 - #40 }
+INFO  19:20:38,489 - Program(
+  ProgramName(
+   p
+  ) [ProgramName]
+  ProgramVarDeclarations(
+    ProgramVarDeclarations(
+      NoProgramVarDeclarations(
+      ) [NoProgramVarDeclarations]
+      VarProgramVarDeclaration(
+        GlobalVarDeclaration(
+          VarDecl(
+            Type(
+             boolean
+            ) [Type]
+            VarNameSingle(
+              VarNamePartSingle(
+               d
+              ) [VarNamePartSingle]
+            ) [VarNameSingle]
+          ) [VarDecl]
+        ) [GlobalVarDeclaration]
+      ) [VarProgramVarDeclaration]
+    ) [ProgramVarDeclarations]
+    ConstProgramVarDeclaration(
+      ConstDecl(
+        Type(
+         boolean
+        ) [Type]
+        ConstNameSingle(
+          ConstNamePart(
+           a
+            AssignOp(
+            ) [AssignOp]
+            NumConst(
+             2
+            ) [NumConst]
+          ) [ConstNamePart]
+        ) [ConstNameSingle]
+      ) [ConstDecl]
+    ) [ConstProgramVarDeclaration]
+  ) [ProgramVarDeclarations]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodReturnVoid(
+      ) [MethodReturnVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoMethodParams(
+      ) [NoMethodParams]
+      NoVarDeclarationList(
+      ) [NoVarDeclarationList]
+      StmtList(
+        NoStmtList(
+        ) [NoStmtList]
+        SingleStmt(
+          DesignatorSingleStmt(
+            DesingatorStatementAssignOpClass(
+              DesignatorStmtAssignOp(
+                DesignatorNamed(
+                 d
+                ) [DesignatorNamed]
+                AssignOp(
+                ) [AssignOp]
+                SignExpression(
+                  NoExprSign(
+                  ) [NoExprSign]
+                  ExprInfoMoreOnly(
+                    ExprInfoSingle(
+                      SingleTerm(
+                        FactorDesignator(
+                          DesignatorNamed(
+                           true
+                          ) [DesignatorNamed]
+                          NoFactorActualPars(
+                          ) [NoFactorActualPars]
+                        ) [FactorDesignator]
+                      ) [SingleTerm]
+                    ) [ExprInfoSingle]
+                  ) [ExprInfoMoreOnly]
+                ) [SignExpression]
+              ) [DesignatorStmtAssignOp]
+            ) [DesingatorStatementAssignOpClass]
+          ) [DesignatorSingleStmt]
+        ) [SingleStmt]
+      ) [StmtList]
+    ) [MethodDeclaration]
+  ) [MethodDeclarations]
+) [Program]
+INFO  19:20:38,489 - ===================================
+INFO  19:20:38,491 - start main na liniji 1
+INFO  19:20:38,492 - boolean
+INFO  19:20:38,492 - Variable d declared
+INFO  19:20:38,492 - boolean
+ERROR 19:20:38,492 - Constant types not matching na liniji 4
+INFO  19:20:38,492 - start method main na liniji 7
+INFO  19:20:38,492 - end main na liniji 1

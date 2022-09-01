@@ -1,0 +1,42 @@
+INFO  18:26:36,875 - Compiling source file: C:\Users\andri\Desktop\pp1_domaci\workspace\MJCompiler\test\test301.mj
+INFO  18:26:36,919 - #2 program
+INFO  18:26:36,919 - #47 test301
+INFO  18:26:36,919 - #39 {
+INFO  18:26:36,920 - #13 void
+INFO  18:26:36,920 - #47 main
+INFO  18:26:36,921 - #37 (
+INFO  18:26:36,921 - #38 )
+INFO  18:26:36,921 - #39 {
+INFO  18:26:36,922 - #40 }
+INFO  18:26:36,922 - #40 }
+INFO  18:26:36,927 - Program(
+  ProgramName(
+   test301
+  ) [ProgramName]
+  NoProgramVarDeclarations(
+  ) [NoProgramVarDeclarations]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodReturnVoid(
+      ) [MethodReturnVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoMethodParams(
+      ) [NoMethodParams]
+      NoVarDeclarationList(
+      ) [NoVarDeclarationList]
+      NoStmtList(
+      ) [NoStmtList]
+    ) [MethodDeclaration]
+  ) [MethodDeclarations]
+) [Program]
+INFO  18:26:36,927 - ===================================
+INFO  18:26:36,930 - start main na liniji 3
+INFO  18:26:36,930 - Method returns void
+INFO  18:26:36,930 - start method main na liniji 5
+INFO  18:26:36,930 - end main na liniji 3
+INFO  18:26:36,930 - ===================================
+INFO  18:26:36,933 - Parsing successfull

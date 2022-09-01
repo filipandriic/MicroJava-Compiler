@@ -1,0 +1,201 @@
+INFO  00:33:30,826 - Compiling source file: C:\Users\andri\Desktop\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  00:33:30,867 - #2 program
+INFO  00:33:30,867 - #47 MJProgram
+INFO  00:33:30,867 - #47 int
+INFO  00:33:30,868 - #47 y
+INFO  00:33:30,868 - #44 ,
+INFO  00:33:30,868 - #47 kk
+INFO  00:33:30,868 - #46 ;
+INFO  00:33:30,869 - #47 int
+INFO  00:33:30,869 - #47 as
+INFO  00:33:30,869 - #46 ;
+INFO  00:33:30,869 - #39 {
+INFO  00:33:30,869 - #13 void
+INFO  00:33:30,870 - #47 main
+INFO  00:33:30,870 - #37 (
+INFO  00:33:30,870 - #38 )
+INFO  00:33:30,871 - #39 {
+INFO  00:33:30,871 - #47 y
+INFO  00:33:30,872 - #23 =
+INFO  00:33:30,872 - #48 2
+INFO  00:33:30,873 - #46 ;
+INFO  00:33:30,874 - #47 kk
+INFO  00:33:30,875 - #23 =
+INFO  00:33:30,875 - #48 3
+INFO  00:33:30,875 - #46 ;
+INFO  00:33:30,875 - #10 print
+INFO  00:33:30,875 - #37 (
+INFO  00:33:30,875 - #48 1
+INFO  00:33:30,875 - #38 )
+INFO  00:33:30,875 - #46 ;
+INFO  00:33:30,875 - #10 print
+INFO  00:33:30,876 - #37 (
+INFO  00:33:30,876 - #48 2
+INFO  00:33:30,876 - #38 )
+INFO  00:33:30,876 - #46 ;
+INFO  00:33:30,876 - #40 }
+INFO  00:33:30,876 - #40 }
+INFO  00:33:30,878 - Program(
+  ProgramName(
+   MJProgram
+  ) [ProgramName]
+  ProgramVarDeclarations(
+    ProgramVarDeclarations(
+      NoProgramVarDeclarations(
+      ) [NoProgramVarDeclarations]
+      VarProgramVarDeclaration(
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          VarNamesList(
+            VarNameSingle(
+              VarNamePartSingle(
+               y
+              ) [VarNamePartSingle]
+            ) [VarNameSingle]
+            VarNamePartSingle(
+             kk
+            ) [VarNamePartSingle]
+          ) [VarNamesList]
+        ) [VarDecl]
+      ) [VarProgramVarDeclaration]
+    ) [ProgramVarDeclarations]
+    VarProgramVarDeclaration(
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        VarNameSingle(
+          VarNamePartSingle(
+           as
+          ) [VarNamePartSingle]
+        ) [VarNameSingle]
+      ) [VarDecl]
+    ) [VarProgramVarDeclaration]
+  ) [ProgramVarDeclarations]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodReturnVoid(
+      ) [MethodReturnVoid]
+     main
+      NoMethodParams(
+      ) [NoMethodParams]
+      NoVarDeclList(
+      ) [NoVarDeclList]
+      StmtList(
+        StmtList(
+          StmtList(
+            StmtList(
+              NoStmtList(
+              ) [NoStmtList]
+              SingleStmt(
+                DesignatorSingleStmt(
+                  DesignatorStatementClass(
+                    DesignatorNamed(
+                     y
+                    ) [DesignatorNamed]
+                    DesignatorAssign(
+                      AssignOp(
+                      ) [AssignOp]
+                      SignExpression(
+                        NoExprSign(
+                        ) [NoExprSign]
+                        ExprInfoMoreOnly(
+                          ExprInfoSingle(
+                            SingleTerm(
+                              FactorConst(
+                                NumConst(
+                                 2
+                                ) [NumConst]
+                              ) [FactorConst]
+                            ) [SingleTerm]
+                          ) [ExprInfoSingle]
+                        ) [ExprInfoMoreOnly]
+                      ) [SignExpression]
+                    ) [DesignatorAssign]
+                  ) [DesignatorStatementClass]
+                ) [DesignatorSingleStmt]
+              ) [SingleStmt]
+            ) [StmtList]
+            SingleStmt(
+              DesignatorSingleStmt(
+                DesignatorStatementClass(
+                  DesignatorNamed(
+                   kk
+                  ) [DesignatorNamed]
+                  DesignatorAssign(
+                    AssignOp(
+                    ) [AssignOp]
+                    SignExpression(
+                      NoExprSign(
+                      ) [NoExprSign]
+                      ExprInfoMoreOnly(
+                        ExprInfoSingle(
+                          SingleTerm(
+                            FactorConst(
+                              NumConst(
+                               3
+                              ) [NumConst]
+                            ) [FactorConst]
+                          ) [SingleTerm]
+                        ) [ExprInfoSingle]
+                      ) [ExprInfoMoreOnly]
+                    ) [SignExpression]
+                  ) [DesignatorAssign]
+                ) [DesignatorStatementClass]
+              ) [DesignatorSingleStmt]
+            ) [SingleStmt]
+          ) [StmtList]
+          SingleStmt(
+            PrintSingleStmt(
+              PrintSingleStmtExpr(
+                SignExpression(
+                  NoExprSign(
+                  ) [NoExprSign]
+                  ExprInfoMoreOnly(
+                    ExprInfoSingle(
+                      SingleTerm(
+                        FactorConst(
+                          NumConst(
+                           1
+                          ) [NumConst]
+                        ) [FactorConst]
+                      ) [SingleTerm]
+                    ) [ExprInfoSingle]
+                  ) [ExprInfoMoreOnly]
+                ) [SignExpression]
+              ) [PrintSingleStmtExpr]
+            ) [PrintSingleStmt]
+          ) [SingleStmt]
+        ) [StmtList]
+        SingleStmt(
+          PrintSingleStmt(
+            PrintSingleStmtExpr(
+              SignExpression(
+                NoExprSign(
+                ) [NoExprSign]
+                ExprInfoMoreOnly(
+                  ExprInfoSingle(
+                    SingleTerm(
+                      FactorConst(
+                        NumConst(
+                         2
+                        ) [NumConst]
+                      ) [FactorConst]
+                    ) [SingleTerm]
+                  ) [ExprInfoSingle]
+                ) [ExprInfoMoreOnly]
+              ) [SignExpression]
+            ) [PrintSingleStmtExpr]
+          ) [PrintSingleStmt]
+        ) [SingleStmt]
+      ) [StmtList]
+    ) [MethodDeclaration]
+  ) [MethodDeclarations]
+) [Program]
+INFO  00:33:30,878 - ===================================
+INFO  00:33:30,880 -  Print count calls = 2
+INFO  00:33:30,880 -  Deklarisanih promenljivih ima = 2

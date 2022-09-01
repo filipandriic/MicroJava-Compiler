@@ -1,0 +1,55 @@
+INFO  19:18:07,849 - Compiling source file: /Users/filipandric/Desktop/pp1_plsradi/workspace/MJCompiler/test/program.mj
+INFO  19:18:07,895 - #2 program
+INFO  19:18:07,895 - #47 p
+INFO  19:18:07,895 - #5 const
+INFO  19:18:07,896 - #47 boolean
+INFO  19:18:07,896 - #47 a
+INFO  19:18:07,896 - #23 =
+INFO  19:18:07,896 - #47 false
+ERROR 19:18:07,896 - Syntax error na liniji 3
+INFO  19:18:07,896 - #46 ;
+INFO  19:18:07,896 - #39 {
+INFO  19:18:07,896 - #13 void
+INFO  19:18:07,897 - #47 main
+INFO  19:18:07,897 - #37 (
+ERROR 19:18:07,897 - 
+Sintaksna greska : Greska pri definiciji globalne promenljive, linija: 8
+INFO  19:18:07,897 - Uspesno izvrsen oporavak od greske pri definiciji globalne promenljive.
+INFO  19:18:07,898 - #38 )
+INFO  19:18:07,898 - #39 {
+INFO  19:18:07,898 - #40 }
+INFO  19:18:07,902 - #40 }
+INFO  19:18:07,984 - Program(
+  ProgramName(
+   p
+  ) [ProgramName]
+  ProgramVarDeclarations(
+    NoProgramVarDeclarations(
+    ) [NoProgramVarDeclarations]
+    VarProgramVarDeclaration(
+      GlobalVarDeclarationError(
+      ) [GlobalVarDeclarationError]
+    ) [VarProgramVarDeclaration]
+  ) [ProgramVarDeclarations]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodReturnVoid(
+      ) [MethodReturnVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoMethodParams(
+      ) [NoMethodParams]
+      NoVarDeclarationList(
+      ) [NoVarDeclarationList]
+      NoStmtList(
+      ) [NoStmtList]
+    ) [MethodDeclaration]
+  ) [MethodDeclarations]
+) [Program]
+INFO  19:18:07,984 - ===================================
+INFO  19:18:07,988 - start main na liniji 1
+INFO  19:18:07,988 - start method main na liniji 6
+INFO  19:18:07,988 - end main na liniji 1

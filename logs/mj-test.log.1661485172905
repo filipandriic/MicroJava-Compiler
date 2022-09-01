@@ -1,0 +1,292 @@
+INFO  05:35:05,105 - Compiling source file: C:\Users\andri\Desktop\pp1_domaci\workspace\MJCompiler\test\test301_A.mj
+INFO  05:35:05,158 - #2 program
+INFO  05:35:05,158 - #47 test301
+INFO  05:35:05,159 - #47 int
+INFO  05:35:05,160 - #47 x
+INFO  05:35:05,163 - #44 ,
+INFO  05:35:05,163 - #47 y
+INFO  05:35:05,164 - #46 ;
+INFO  05:35:05,164 - #47 bool
+INFO  05:35:05,165 - #47 z
+INFO  05:35:05,165 - #46 ;
+INFO  05:35:05,165 - #39 {
+INFO  05:35:05,165 - #13 void
+INFO  05:35:05,166 - #47 main
+INFO  05:35:05,166 - #37 (
+INFO  05:35:05,167 - #38 )
+INFO  05:35:05,167 - #39 {
+INFO  05:35:05,168 - #47 x
+INFO  05:35:05,169 - #23 =
+INFO  05:35:05,169 - #48 1
+INFO  05:35:05,170 - #46 ;
+INFO  05:35:05,171 - #6 if
+INFO  05:35:05,171 - #37 (
+INFO  05:35:05,172 - #47 x
+INFO  05:35:05,172 - #30 !=
+INFO  05:35:05,172 - #48 1
+INFO  05:35:05,173 - #38 )
+INFO  05:35:05,173 - #47 x
+INFO  05:35:05,173 - #23 =
+INFO  05:35:05,173 - #48 5
+INFO  05:35:05,173 - #46 ;
+INFO  05:35:05,173 - #7 else
+INFO  05:35:05,174 - #39 {
+INFO  05:35:05,174 - #47 x
+INFO  05:35:05,174 - #23 =
+INFO  05:35:05,175 - #48 7
+INFO  05:35:05,175 - #46 ;
+INFO  05:35:05,175 - #40 }
+INFO  05:35:05,175 - #10 print
+INFO  05:35:05,175 - #37 (
+INFO  05:35:05,175 - #47 x
+INFO  05:35:05,175 - #38 )
+INFO  05:35:05,175 - #46 ;
+INFO  05:35:05,175 - #40 }
+INFO  05:35:05,176 - #40 }
+INFO  05:35:05,182 - Program(
+  ProgramName(
+   test301
+  ) [ProgramName]
+  ProgramVarDeclarations(
+    ProgramVarDeclarations(
+      NoProgramVarDeclarations(
+      ) [NoProgramVarDeclarations]
+      VarProgramVarDeclaration(
+        GlobalVarDeclaration(
+          VarDecl(
+            Type(
+             int
+            ) [Type]
+            VarNamesList(
+              VarNameSingle(
+                VarNamePartSingle(
+                 x
+                ) [VarNamePartSingle]
+              ) [VarNameSingle]
+              VarNamePartSingle(
+               y
+              ) [VarNamePartSingle]
+            ) [VarNamesList]
+          ) [VarDecl]
+        ) [GlobalVarDeclaration]
+      ) [VarProgramVarDeclaration]
+    ) [ProgramVarDeclarations]
+    VarProgramVarDeclaration(
+      GlobalVarDeclaration(
+        VarDecl(
+          Type(
+           bool
+          ) [Type]
+          VarNameSingle(
+            VarNamePartSingle(
+             z
+            ) [VarNamePartSingle]
+          ) [VarNameSingle]
+        ) [VarDecl]
+      ) [GlobalVarDeclaration]
+    ) [VarProgramVarDeclaration]
+  ) [ProgramVarDeclarations]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodReturnVoid(
+      ) [MethodReturnVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoMethodParams(
+      ) [NoMethodParams]
+      NoVarDeclarationList(
+      ) [NoVarDeclarationList]
+      StmtList(
+        StmtList(
+          StmtList(
+            NoStmtList(
+            ) [NoStmtList]
+            SingleStmt(
+              DesignatorSingleStmt(
+                DesingatorStatementAssignOpClass(
+                  DesignatorStmtAssignOp(
+                    DesignatorNamed(
+                     x
+                    ) [DesignatorNamed]
+                    AssignOp(
+                    ) [AssignOp]
+                    SignExpression(
+                      ExprInfoMoreOnly(
+                        NoExprSign(
+                        ) [NoExprSign]
+                        ExprInfoSingle(
+                          SingleTerm(
+                            FactorConst(
+                              NumConst(
+                               1
+                              ) [NumConst]
+                            ) [FactorConst]
+                          ) [SingleTerm]
+                        ) [ExprInfoSingle]
+                      ) [ExprInfoMoreOnly]
+                    ) [SignExpression]
+                  ) [DesignatorStmtAssignOp]
+                ) [DesingatorStatementAssignOpClass]
+              ) [DesignatorSingleStmt]
+            ) [SingleStmt]
+          ) [StmtList]
+          SingleStmt(
+            IfSingleStmt(
+              IfPartSingleStmt(
+                StartIfLooping(
+                ) [StartIfLooping]
+                IfConditionSuccess(
+                  NoOrCondition(
+                    NoAndCondTerm(
+                      CondFactRelOp(
+                        SignExpression(
+                          ExprInfoMoreOnly(
+                            NoExprSign(
+                            ) [NoExprSign]
+                            ExprInfoSingle(
+                              SingleTerm(
+                                FactorDesignator(
+                                  DesignatorNamed(
+                                   x
+                                  ) [DesignatorNamed]
+                                ) [FactorDesignator]
+                              ) [SingleTerm]
+                            ) [ExprInfoSingle]
+                          ) [ExprInfoMoreOnly]
+                        ) [SignExpression]
+                        RelOpNotEqual(
+                        ) [RelOpNotEqual]
+                        SignExpression(
+                          ExprInfoMoreOnly(
+                            NoExprSign(
+                            ) [NoExprSign]
+                            ExprInfoSingle(
+                              SingleTerm(
+                                FactorConst(
+                                  NumConst(
+                                   1
+                                  ) [NumConst]
+                                ) [FactorConst]
+                              ) [SingleTerm]
+                            ) [ExprInfoSingle]
+                          ) [ExprInfoMoreOnly]
+                        ) [SignExpression]
+                      ) [CondFactRelOp]
+                    ) [NoAndCondTerm]
+                  ) [NoOrCondition]
+                ) [IfConditionSuccess]
+                SingleStmt(
+                  DesignatorSingleStmt(
+                    DesingatorStatementAssignOpClass(
+                      DesignatorStmtAssignOp(
+                        DesignatorNamed(
+                         x
+                        ) [DesignatorNamed]
+                        AssignOp(
+                        ) [AssignOp]
+                        SignExpression(
+                          ExprInfoMoreOnly(
+                            NoExprSign(
+                            ) [NoExprSign]
+                            ExprInfoSingle(
+                              SingleTerm(
+                                FactorConst(
+                                  NumConst(
+                                   5
+                                  ) [NumConst]
+                                ) [FactorConst]
+                              ) [SingleTerm]
+                            ) [ExprInfoSingle]
+                          ) [ExprInfoMoreOnly]
+                        ) [SignExpression]
+                      ) [DesignatorStmtAssignOp]
+                    ) [DesingatorStatementAssignOpClass]
+                  ) [DesignatorSingleStmt]
+                ) [SingleStmt]
+              ) [IfPartSingleStmt]
+              ElsePartStmt(
+                StartElseLooping(
+                ) [StartElseLooping]
+                MultipleStmt(
+                  Stmts(
+                    StmtList(
+                      NoStmtList(
+                      ) [NoStmtList]
+                      SingleStmt(
+                        DesignatorSingleStmt(
+                          DesingatorStatementAssignOpClass(
+                            DesignatorStmtAssignOp(
+                              DesignatorNamed(
+                               x
+                              ) [DesignatorNamed]
+                              AssignOp(
+                              ) [AssignOp]
+                              SignExpression(
+                                ExprInfoMoreOnly(
+                                  NoExprSign(
+                                  ) [NoExprSign]
+                                  ExprInfoSingle(
+                                    SingleTerm(
+                                      FactorConst(
+                                        NumConst(
+                                         7
+                                        ) [NumConst]
+                                      ) [FactorConst]
+                                    ) [SingleTerm]
+                                  ) [ExprInfoSingle]
+                                ) [ExprInfoMoreOnly]
+                              ) [SignExpression]
+                            ) [DesignatorStmtAssignOp]
+                          ) [DesingatorStatementAssignOpClass]
+                        ) [DesignatorSingleStmt]
+                      ) [SingleStmt]
+                    ) [StmtList]
+                  ) [Stmts]
+                ) [MultipleStmt]
+              ) [ElsePartStmt]
+            ) [IfSingleStmt]
+          ) [SingleStmt]
+        ) [StmtList]
+        SingleStmt(
+          PrintSingleStmt(
+            PrintSingleStmtExpr(
+              SignExpression(
+                ExprInfoMoreOnly(
+                  NoExprSign(
+                  ) [NoExprSign]
+                  ExprInfoSingle(
+                    SingleTerm(
+                      FactorDesignator(
+                        DesignatorNamed(
+                         x
+                        ) [DesignatorNamed]
+                      ) [FactorDesignator]
+                    ) [SingleTerm]
+                  ) [ExprInfoSingle]
+                ) [ExprInfoMoreOnly]
+              ) [SignExpression]
+            ) [PrintSingleStmtExpr]
+          ) [PrintSingleStmt]
+        ) [SingleStmt]
+      ) [StmtList]
+    ) [MethodDeclaration]
+  ) [MethodDeclarations]
+) [Program]
+INFO  05:35:05,183 - ===================================
+INFO  05:35:05,187 - start main na liniji 3
+INFO  05:35:05,187 - Global variable int x declared
+INFO  05:35:05,188 - Global variable int y declared
+INFO  05:35:05,188 - Global variable bool z declared
+INFO  05:35:05,188 - Method returns void
+INFO  05:35:05,188 - start method main na liniji 8
+INFO  05:35:05,188 - Local variable x used na liniji 10
+INFO  05:35:05,188 - Local variable x used na liniji 12
+INFO  05:35:05,188 - Local variable x used na liniji 13
+INFO  05:35:05,188 - Local variable x used na liniji 15
+INFO  05:35:05,188 - Local variable x used na liniji 18
+INFO  05:35:05,189 - end main na liniji 3
+INFO  05:35:05,189 - ===================================
+INFO  05:35:05,194 - Well done bye

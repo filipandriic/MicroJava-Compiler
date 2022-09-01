@@ -1,0 +1,65 @@
+INFO  19:13:25,460 - Compiling source file: /Users/filipandric/Desktop/pp1_plsradi/workspace/MJCompiler/test/program.mj
+INFO  19:13:25,513 - #2 program
+INFO  19:13:25,513 - #47 p
+INFO  19:13:25,513 - #5 const
+INFO  19:13:25,514 - #47 int
+INFO  19:13:25,514 - #47 a
+INFO  19:13:25,515 - #23 =
+INFO  19:13:25,515 - #48 0
+INFO  19:13:25,515 - #46 ;
+INFO  19:13:25,515 - #39 {
+INFO  19:13:25,516 - #13 void
+INFO  19:13:25,516 - #47 main
+INFO  19:13:25,516 - #37 (
+INFO  19:13:25,516 - #38 )
+INFO  19:13:25,517 - #39 {
+INFO  19:13:25,521 - #40 }
+INFO  19:13:25,522 - #40 }
+INFO  19:13:25,605 - Program(
+  ProgramName(
+   p
+  ) [ProgramName]
+  ProgramVarDeclarations(
+    NoProgramVarDeclarations(
+    ) [NoProgramVarDeclarations]
+    ConstProgramVarDeclaration(
+      ConstDecl(
+        Type(
+         int
+        ) [Type]
+        ConstNameSingle(
+          ConstNamePart(
+           a
+            AssignOp(
+            ) [AssignOp]
+            NumConst(
+             0
+            ) [NumConst]
+          ) [ConstNamePart]
+        ) [ConstNameSingle]
+      ) [ConstDecl]
+    ) [ConstProgramVarDeclaration]
+  ) [ProgramVarDeclarations]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodReturnVoid(
+      ) [MethodReturnVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoMethodParams(
+      ) [NoMethodParams]
+      NoVarDeclarationList(
+      ) [NoVarDeclarationList]
+      NoStmtList(
+      ) [NoStmtList]
+    ) [MethodDeclaration]
+  ) [MethodDeclarations]
+) [Program]
+INFO  19:13:25,605 - ===================================
+INFO  19:13:25,608 - start main na liniji 1
+INFO  19:13:25,609 - int
+INFO  19:13:25,609 - start method main na liniji 6
+INFO  19:13:25,609 - end main na liniji 1

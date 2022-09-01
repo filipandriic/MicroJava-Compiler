@@ -1,0 +1,112 @@
+INFO  19:21:58,746 - Compiling source file: /Users/filipandric/Desktop/pp1_plsradi/workspace/MJCompiler/test/program.mj
+INFO  19:21:58,794 - #2 program
+INFO  19:21:58,794 - #47 p
+INFO  19:21:58,794 - #47 boolean
+INFO  19:21:58,795 - #47 d
+INFO  19:21:58,795 - #46 ;
+INFO  19:21:58,795 - #5 const
+INFO  19:21:58,795 - #47 boolean
+INFO  19:21:58,795 - #47 a
+INFO  19:21:58,795 - #23 =
+INFO  19:21:58,795 - #47 false
+ERROR 19:21:58,796 - Syntax error na liniji 4
+INFO  19:21:58,796 - #46 ;
+INFO  19:21:58,796 - #39 {
+INFO  19:21:58,796 - #13 void
+INFO  19:21:58,796 - #47 main
+INFO  19:21:58,796 - #37 (
+ERROR 19:21:58,796 - 
+Sintaksna greska : Greska pri definiciji globalne promenljive, linija: 8
+INFO  19:21:58,796 - Uspesno izvrsen oporavak od greske pri definiciji globalne promenljive.
+INFO  19:21:58,798 - #38 )
+INFO  19:21:58,802 - #39 {
+INFO  19:21:58,803 - #47 d
+INFO  19:21:58,804 - #23 =
+INFO  19:21:58,804 - #47 true
+INFO  19:21:58,805 - #46 ;
+INFO  19:21:58,806 - #40 }
+INFO  19:21:58,806 - #40 }
+INFO  19:21:58,889 - Program(
+  ProgramName(
+   p
+  ) [ProgramName]
+  ProgramVarDeclarations(
+    ProgramVarDeclarations(
+      NoProgramVarDeclarations(
+      ) [NoProgramVarDeclarations]
+      VarProgramVarDeclaration(
+        GlobalVarDeclaration(
+          VarDecl(
+            Type(
+             boolean
+            ) [Type]
+            VarNameSingle(
+              VarNamePartSingle(
+               d
+              ) [VarNamePartSingle]
+            ) [VarNameSingle]
+          ) [VarDecl]
+        ) [GlobalVarDeclaration]
+      ) [VarProgramVarDeclaration]
+    ) [ProgramVarDeclarations]
+    VarProgramVarDeclaration(
+      GlobalVarDeclarationError(
+      ) [GlobalVarDeclarationError]
+    ) [VarProgramVarDeclaration]
+  ) [ProgramVarDeclarations]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodReturnVoid(
+      ) [MethodReturnVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoMethodParams(
+      ) [NoMethodParams]
+      NoVarDeclarationList(
+      ) [NoVarDeclarationList]
+      StmtList(
+        NoStmtList(
+        ) [NoStmtList]
+        SingleStmt(
+          DesignatorSingleStmt(
+            DesingatorStatementAssignOpClass(
+              DesignatorStmtAssignOp(
+                DesignatorNamed(
+                 d
+                ) [DesignatorNamed]
+                AssignOp(
+                ) [AssignOp]
+                SignExpression(
+                  NoExprSign(
+                  ) [NoExprSign]
+                  ExprInfoMoreOnly(
+                    ExprInfoSingle(
+                      SingleTerm(
+                        FactorDesignator(
+                          DesignatorNamed(
+                           true
+                          ) [DesignatorNamed]
+                          NoFactorActualPars(
+                          ) [NoFactorActualPars]
+                        ) [FactorDesignator]
+                      ) [SingleTerm]
+                    ) [ExprInfoSingle]
+                  ) [ExprInfoMoreOnly]
+                ) [SignExpression]
+              ) [DesignatorStmtAssignOp]
+            ) [DesingatorStatementAssignOpClass]
+          ) [DesignatorSingleStmt]
+        ) [SingleStmt]
+      ) [StmtList]
+    ) [MethodDeclaration]
+  ) [MethodDeclarations]
+) [Program]
+INFO  19:21:58,889 - ===================================
+INFO  19:21:58,891 - start main na liniji 1
+INFO  19:21:58,891 - boolean
+INFO  19:21:58,891 - Variable d declared
+INFO  19:21:58,891 - start method main na liniji 7
+INFO  19:21:58,891 - end main na liniji 1

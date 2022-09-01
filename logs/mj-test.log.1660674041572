@@ -1,0 +1,512 @@
+INFO  20:07:57,641 - Compiling source file: /Users/filipandric/Desktop/pp1_plsradi/workspace/MJCompiler/test/program.mj
+INFO  20:07:57,685 - #2 program
+INFO  20:07:57,685 - #47 p
+INFO  20:07:57,685 - #16 class
+INFO  20:07:57,686 - #47 A
+INFO  20:07:57,686 - #39 {
+INFO  20:07:57,686 - #40 }
+INFO  20:07:57,687 - #16 class
+INFO  20:07:57,687 - #47 B
+INFO  20:07:57,687 - #19 extends
+INFO  20:07:57,687 - #47 A
+INFO  20:07:57,687 - #39 {
+INFO  20:07:57,687 - #40 }
+INFO  20:07:57,687 - #16 class
+INFO  20:07:57,687 - #47 C
+INFO  20:07:57,688 - #19 extends
+INFO  20:07:57,688 - #47 A
+INFO  20:07:57,688 - #39 {
+INFO  20:07:57,688 - #40 }
+INFO  20:07:57,688 - #16 class
+INFO  20:07:57,688 - #47 D
+INFO  20:07:57,688 - #19 extends
+INFO  20:07:57,688 - #47 C
+INFO  20:07:57,688 - #39 {
+INFO  20:07:57,688 - #40 }
+INFO  20:07:57,688 - #16 class
+INFO  20:07:57,688 - #47 E
+INFO  20:07:57,688 - #39 {
+INFO  20:07:57,688 - #40 }
+INFO  20:07:57,688 - #16 class
+INFO  20:07:57,689 - #47 F
+INFO  20:07:57,689 - #19 extends
+INFO  20:07:57,689 - #47 E
+INFO  20:07:57,689 - #39 {
+INFO  20:07:57,689 - #40 }
+INFO  20:07:57,689 - #39 {
+INFO  20:07:57,692 - #13 void
+INFO  20:07:57,693 - #47 main
+INFO  20:07:57,694 - #37 (
+INFO  20:07:57,694 - #38 )
+INFO  20:07:57,696 - #47 B
+INFO  20:07:57,696 - #47 b
+INFO  20:07:57,696 - #46 ;
+INFO  20:07:57,696 - #47 int
+INFO  20:07:57,698 - #47 x
+INFO  20:07:57,699 - #44 ,
+INFO  20:07:57,699 - #47 y
+INFO  20:07:57,699 - #46 ;
+INFO  20:07:57,699 - #39 {
+INFO  20:07:57,699 - #8 do
+INFO  20:07:57,699 - #39 {
+INFO  20:07:57,700 - #10 print
+INFO  20:07:57,700 - #37 (
+INFO  20:07:57,700 - #50 !
+INFO  20:07:57,700 - #38 )
+INFO  20:07:57,700 - #46 ;
+INFO  20:07:57,701 - #40 }
+INFO  20:07:57,701 - #9 while
+INFO  20:07:57,701 - #37 (
+INFO  20:07:57,701 - #48 1
+INFO  20:07:57,701 - #29 ==
+INFO  20:07:57,701 - #48 3
+INFO  20:07:57,703 - #36 ||
+INFO  20:07:57,704 - #48 1
+INFO  20:07:57,704 - #33 >
+INFO  20:07:57,704 - #48 2
+INFO  20:07:57,705 - #35 &&
+INFO  20:07:57,705 - #48 1
+INFO  20:07:57,705 - #31 <
+INFO  20:07:57,705 - #48 2
+INFO  20:07:57,706 - #38 )
+INFO  20:07:57,706 - #46 ;
+INFO  20:07:57,706 - #47 x
+INFO  20:07:57,706 - #23 =
+INFO  20:07:57,706 - #48 3
+INFO  20:07:57,706 - #46 ;
+INFO  20:07:57,708 - #6 if
+INFO  20:07:57,709 - #37 (
+INFO  20:07:57,709 - #48 2
+INFO  20:07:57,709 - #33 >
+INFO  20:07:57,709 - #38 )
+ERROR 20:07:57,709 - Syntax error na liniji 38
+INFO  20:07:57,709 - #10 print
+INFO  20:07:57,709 - #37 (
+INFO  20:07:57,709 - #48 3
+ERROR 20:07:57,709 - 
+Sintaksna greska : Greska pri logickom izrazu unutar if konstrukcije, linija: 38
+INFO  20:07:57,709 - Uspesno izvrsen oporavak od greske pri logickom izrazu unutar if konstrukcije.
+INFO  20:07:57,710 - #38 )
+INFO  20:07:57,710 - #46 ;
+INFO  20:07:57,710 - #7 else
+INFO  20:07:57,710 - #10 print
+INFO  20:07:57,710 - #37 (
+INFO  20:07:57,710 - #48 5
+INFO  20:07:57,710 - #38 )
+INFO  20:07:57,710 - #46 ;
+INFO  20:07:57,711 - #40 }
+INFO  20:07:57,711 - #40 }
+INFO  20:07:57,719 - Program(
+  ProgramName(
+   p
+  ) [ProgramName]
+  ProgramVarDeclarations(
+    ProgramVarDeclarations(
+      ProgramVarDeclarations(
+        ProgramVarDeclarations(
+          ProgramVarDeclarations(
+            ProgramVarDeclarations(
+              NoProgramVarDeclarations(
+              ) [NoProgramVarDeclarations]
+              ClassProgramVarDeclaration(
+                ClassDecl(
+                  ClassName(
+                   A
+                  ) [ClassName]
+                  BaseClass(
+                  ) [BaseClass]
+                  ClassInfo(
+                    ClassVarDeclarations(
+                      NoVarDeclList(
+                      ) [NoVarDeclList]
+                    ) [ClassVarDeclarations]
+                    NoClassMethods(
+                    ) [NoClassMethods]
+                  ) [ClassInfo]
+                ) [ClassDecl]
+              ) [ClassProgramVarDeclaration]
+            ) [ProgramVarDeclarations]
+            ClassProgramVarDeclaration(
+              ClassDecl(
+                ClassName(
+                 B
+                ) [ClassName]
+                SuperClass(
+                  Type(
+                   A
+                  ) [Type]
+                ) [SuperClass]
+                ClassInfo(
+                  ClassVarDeclarations(
+                    NoVarDeclList(
+                    ) [NoVarDeclList]
+                  ) [ClassVarDeclarations]
+                  NoClassMethods(
+                  ) [NoClassMethods]
+                ) [ClassInfo]
+              ) [ClassDecl]
+            ) [ClassProgramVarDeclaration]
+          ) [ProgramVarDeclarations]
+          ClassProgramVarDeclaration(
+            ClassDecl(
+              ClassName(
+               C
+              ) [ClassName]
+              SuperClass(
+                Type(
+                 A
+                ) [Type]
+              ) [SuperClass]
+              ClassInfo(
+                ClassVarDeclarations(
+                  NoVarDeclList(
+                  ) [NoVarDeclList]
+                ) [ClassVarDeclarations]
+                NoClassMethods(
+                ) [NoClassMethods]
+              ) [ClassInfo]
+            ) [ClassDecl]
+          ) [ClassProgramVarDeclaration]
+        ) [ProgramVarDeclarations]
+        ClassProgramVarDeclaration(
+          ClassDecl(
+            ClassName(
+             D
+            ) [ClassName]
+            SuperClass(
+              Type(
+               C
+              ) [Type]
+            ) [SuperClass]
+            ClassInfo(
+              ClassVarDeclarations(
+                NoVarDeclList(
+                ) [NoVarDeclList]
+              ) [ClassVarDeclarations]
+              NoClassMethods(
+              ) [NoClassMethods]
+            ) [ClassInfo]
+          ) [ClassDecl]
+        ) [ClassProgramVarDeclaration]
+      ) [ProgramVarDeclarations]
+      ClassProgramVarDeclaration(
+        ClassDecl(
+          ClassName(
+           E
+          ) [ClassName]
+          BaseClass(
+          ) [BaseClass]
+          ClassInfo(
+            ClassVarDeclarations(
+              NoVarDeclList(
+              ) [NoVarDeclList]
+            ) [ClassVarDeclarations]
+            NoClassMethods(
+            ) [NoClassMethods]
+          ) [ClassInfo]
+        ) [ClassDecl]
+      ) [ClassProgramVarDeclaration]
+    ) [ProgramVarDeclarations]
+    ClassProgramVarDeclaration(
+      ClassDecl(
+        ClassName(
+         F
+        ) [ClassName]
+        SuperClass(
+          Type(
+           E
+          ) [Type]
+        ) [SuperClass]
+        ClassInfo(
+          ClassVarDeclarations(
+            NoVarDeclList(
+            ) [NoVarDeclList]
+          ) [ClassVarDeclarations]
+          NoClassMethods(
+          ) [NoClassMethods]
+        ) [ClassInfo]
+      ) [ClassDecl]
+    ) [ClassProgramVarDeclaration]
+  ) [ProgramVarDeclarations]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodReturnVoid(
+      ) [MethodReturnVoid]
+     main
+      NoMethodParams(
+      ) [NoMethodParams]
+      VarDeclLisit(
+        VarDeclLisit(
+          NoVarDeclList(
+          ) [NoVarDeclList]
+          VarDecl(
+            Type(
+             B
+            ) [Type]
+            VarNameSingle(
+              VarNamePartSingle(
+               b
+              ) [VarNamePartSingle]
+            ) [VarNameSingle]
+          ) [VarDecl]
+        ) [VarDeclLisit]
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          VarNamesList(
+            VarNameSingle(
+              VarNamePartSingle(
+               x
+              ) [VarNamePartSingle]
+            ) [VarNameSingle]
+            VarNamePartSingle(
+             y
+            ) [VarNamePartSingle]
+          ) [VarNamesList]
+        ) [VarDecl]
+      ) [VarDeclLisit]
+      StmtList(
+        StmtList(
+          StmtList(
+            NoStmtList(
+            ) [NoStmtList]
+            SingleStmt(
+              WhileSingleStmt(
+                MultipleStmt(
+                  Stmts(
+                    StmtList(
+                      NoStmtList(
+                      ) [NoStmtList]
+                      SingleStmt(
+                        PrintSingleStmt(
+                          PrintSingleStmtExpr(
+                            SignExpression(
+                              NoExprSign(
+                              ) [NoExprSign]
+                              ExprInfoMoreOnly(
+                                ExprInfoSingle(
+                                  SingleTerm(
+                                    FactorConst(
+                                      CharConst(
+                                       !
+                                      ) [CharConst]
+                                    ) [FactorConst]
+                                  ) [SingleTerm]
+                                ) [ExprInfoSingle]
+                              ) [ExprInfoMoreOnly]
+                            ) [SignExpression]
+                          ) [PrintSingleStmtExpr]
+                        ) [PrintSingleStmt]
+                      ) [SingleStmt]
+                    ) [StmtList]
+                  ) [Stmts]
+                ) [MultipleStmt]
+                OrCondition(
+                  NoOrCondition(
+                    NoAndCondTerm(
+                      CondFactRelOp(
+                        SignExpression(
+                          NoExprSign(
+                          ) [NoExprSign]
+                          ExprInfoMoreOnly(
+                            ExprInfoSingle(
+                              SingleTerm(
+                                FactorConst(
+                                  NumConst(
+                                   1
+                                  ) [NumConst]
+                                ) [FactorConst]
+                              ) [SingleTerm]
+                            ) [ExprInfoSingle]
+                          ) [ExprInfoMoreOnly]
+                        ) [SignExpression]
+                        RelOpEqual(
+                        ) [RelOpEqual]
+                        SignExpression(
+                          NoExprSign(
+                          ) [NoExprSign]
+                          ExprInfoMoreOnly(
+                            ExprInfoSingle(
+                              SingleTerm(
+                                FactorConst(
+                                  NumConst(
+                                   3
+                                  ) [NumConst]
+                                ) [FactorConst]
+                              ) [SingleTerm]
+                            ) [ExprInfoSingle]
+                          ) [ExprInfoMoreOnly]
+                        ) [SignExpression]
+                      ) [CondFactRelOp]
+                    ) [NoAndCondTerm]
+                  ) [NoOrCondition]
+                  AndCondTerm(
+                    NoAndCondTerm(
+                      CondFactRelOp(
+                        SignExpression(
+                          NoExprSign(
+                          ) [NoExprSign]
+                          ExprInfoMoreOnly(
+                            ExprInfoSingle(
+                              SingleTerm(
+                                FactorConst(
+                                  NumConst(
+                                   1
+                                  ) [NumConst]
+                                ) [FactorConst]
+                              ) [SingleTerm]
+                            ) [ExprInfoSingle]
+                          ) [ExprInfoMoreOnly]
+                        ) [SignExpression]
+                        RelOpGreater(
+                        ) [RelOpGreater]
+                        SignExpression(
+                          NoExprSign(
+                          ) [NoExprSign]
+                          ExprInfoMoreOnly(
+                            ExprInfoSingle(
+                              SingleTerm(
+                                FactorConst(
+                                  NumConst(
+                                   2
+                                  ) [NumConst]
+                                ) [FactorConst]
+                              ) [SingleTerm]
+                            ) [ExprInfoSingle]
+                          ) [ExprInfoMoreOnly]
+                        ) [SignExpression]
+                      ) [CondFactRelOp]
+                    ) [NoAndCondTerm]
+                    CondFactRelOp(
+                      SignExpression(
+                        NoExprSign(
+                        ) [NoExprSign]
+                        ExprInfoMoreOnly(
+                          ExprInfoSingle(
+                            SingleTerm(
+                              FactorConst(
+                                NumConst(
+                                 1
+                                ) [NumConst]
+                              ) [FactorConst]
+                            ) [SingleTerm]
+                          ) [ExprInfoSingle]
+                        ) [ExprInfoMoreOnly]
+                      ) [SignExpression]
+                      RelOpLess(
+                      ) [RelOpLess]
+                      SignExpression(
+                        NoExprSign(
+                        ) [NoExprSign]
+                        ExprInfoMoreOnly(
+                          ExprInfoSingle(
+                            SingleTerm(
+                              FactorConst(
+                                NumConst(
+                                 2
+                                ) [NumConst]
+                              ) [FactorConst]
+                            ) [SingleTerm]
+                          ) [ExprInfoSingle]
+                        ) [ExprInfoMoreOnly]
+                      ) [SignExpression]
+                    ) [CondFactRelOp]
+                  ) [AndCondTerm]
+                ) [OrCondition]
+              ) [WhileSingleStmt]
+            ) [SingleStmt]
+          ) [StmtList]
+          SingleStmt(
+            DesignatorSingleStmt(
+              DesingatorStatementAssignOpClass(
+                DesignatorStmtAssignOp(
+                  DesignatorNamed(
+                   x
+                  ) [DesignatorNamed]
+                  AssignOp(
+                  ) [AssignOp]
+                  SignExpression(
+                    NoExprSign(
+                    ) [NoExprSign]
+                    ExprInfoMoreOnly(
+                      ExprInfoSingle(
+                        SingleTerm(
+                          FactorConst(
+                            NumConst(
+                             3
+                            ) [NumConst]
+                          ) [FactorConst]
+                        ) [SingleTerm]
+                      ) [ExprInfoSingle]
+                    ) [ExprInfoMoreOnly]
+                  ) [SignExpression]
+                ) [DesignatorStmtAssignOp]
+              ) [DesingatorStatementAssignOpClass]
+            ) [DesignatorSingleStmt]
+          ) [SingleStmt]
+        ) [StmtList]
+        SingleStmt(
+          IfSingleStmt(
+            IfPartSingleStmt(
+              IfConditionError(
+              ) [IfConditionError]
+              SingleStmt(
+                PrintSingleStmt(
+                  PrintSingleStmtExpr(
+                    SignExpression(
+                      NoExprSign(
+                      ) [NoExprSign]
+                      ExprInfoMoreOnly(
+                        ExprInfoSingle(
+                          SingleTerm(
+                            FactorConst(
+                              NumConst(
+                               3
+                              ) [NumConst]
+                            ) [FactorConst]
+                          ) [SingleTerm]
+                        ) [ExprInfoSingle]
+                      ) [ExprInfoMoreOnly]
+                    ) [SignExpression]
+                  ) [PrintSingleStmtExpr]
+                ) [PrintSingleStmt]
+              ) [SingleStmt]
+            ) [IfPartSingleStmt]
+            ElsePartStmt(
+              SingleStmt(
+                PrintSingleStmt(
+                  PrintSingleStmtExpr(
+                    SignExpression(
+                      NoExprSign(
+                      ) [NoExprSign]
+                      ExprInfoMoreOnly(
+                        ExprInfoSingle(
+                          SingleTerm(
+                            FactorConst(
+                              NumConst(
+                               5
+                              ) [NumConst]
+                            ) [FactorConst]
+                          ) [SingleTerm]
+                        ) [ExprInfoSingle]
+                      ) [ExprInfoMoreOnly]
+                    ) [SignExpression]
+                  ) [PrintSingleStmtExpr]
+                ) [PrintSingleStmt]
+              ) [SingleStmt]
+            ) [ElsePartStmt]
+          ) [IfSingleStmt]
+        ) [SingleStmt]
+      ) [StmtList]
+    ) [MethodDeclaration]
+  ) [MethodDeclarations]
+) [Program]
+INFO  20:07:57,720 - ===================================
+ERROR 20:07:57,721 - No type found: A
+ERROR 20:07:57,721 - No type found: A
+ERROR 20:07:57,721 - No type found: C
+ERROR 20:07:57,721 - No type found: E
+ERROR 20:07:57,721 - No type found: B

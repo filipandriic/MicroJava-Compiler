@@ -1,0 +1,11 @@
+program p
+
+boolean d;
+const boolean a = false;
+
+{
+	void main()
+	{
+		d = true;
+	}
+}

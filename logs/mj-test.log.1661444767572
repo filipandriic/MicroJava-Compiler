@@ -1,0 +1,86 @@
+INFO  18:26:02,920 - Compiling source file: C:\Users\andri\Desktop\pp1_domaci\workspace\MJCompiler\test\test301.mj
+INFO  18:26:02,962 - #2 program
+INFO  18:26:02,962 - #47 test301
+INFO  18:26:02,962 - #47 int
+INFO  18:26:02,963 - #47 niz
+INFO  18:26:02,963 - #41 [
+INFO  18:26:02,963 - #42 ]
+INFO  18:26:02,964 - #46 ;
+INFO  18:26:02,964 - #47 char
+INFO  18:26:02,964 - #47 nizch
+INFO  18:26:02,964 - #41 [
+INFO  18:26:02,964 - #42 ]
+INFO  18:26:02,965 - #46 ;
+INFO  18:26:02,965 - #39 {
+INFO  18:26:02,965 - #13 void
+INFO  18:26:02,965 - #47 main
+INFO  18:26:02,966 - #37 (
+INFO  18:26:02,966 - #38 )
+INFO  18:26:02,966 - #39 {
+INFO  18:26:02,967 - #40 }
+INFO  18:26:02,967 - #40 }
+INFO  18:26:02,972 - Program(
+  ProgramName(
+   test301
+  ) [ProgramName]
+  ProgramVarDeclarations(
+    ProgramVarDeclarations(
+      NoProgramVarDeclarations(
+      ) [NoProgramVarDeclarations]
+      VarProgramVarDeclaration(
+        GlobalVarDeclaration(
+          VarDecl(
+            Type(
+             int
+            ) [Type]
+            VarNameSingle(
+              VarNamePartArray(
+               niz
+              ) [VarNamePartArray]
+            ) [VarNameSingle]
+          ) [VarDecl]
+        ) [GlobalVarDeclaration]
+      ) [VarProgramVarDeclaration]
+    ) [ProgramVarDeclarations]
+    VarProgramVarDeclaration(
+      GlobalVarDeclaration(
+        VarDecl(
+          Type(
+           char
+          ) [Type]
+          VarNameSingle(
+            VarNamePartArray(
+             nizch
+            ) [VarNamePartArray]
+          ) [VarNameSingle]
+        ) [VarDecl]
+      ) [GlobalVarDeclaration]
+    ) [VarProgramVarDeclaration]
+  ) [ProgramVarDeclarations]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodReturnVoid(
+      ) [MethodReturnVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoMethodParams(
+      ) [NoMethodParams]
+      NoVarDeclarationList(
+      ) [NoVarDeclarationList]
+      NoStmtList(
+      ) [NoStmtList]
+    ) [MethodDeclaration]
+  ) [MethodDeclarations]
+) [Program]
+INFO  18:26:02,972 - ===================================
+INFO  18:26:02,975 - start main na liniji 3
+INFO  18:26:02,975 - Variable int niz declared
+INFO  18:26:02,975 - Variable char nizch declared
+INFO  18:26:02,975 - Method returns void
+INFO  18:26:02,975 - start method main na liniji 11
+INFO  18:26:02,975 - end main na liniji 3
+INFO  18:26:02,975 - ===================================
+INFO  18:26:02,978 - Parsing successfull

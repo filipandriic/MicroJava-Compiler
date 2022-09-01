@@ -1,0 +1,396 @@
+INFO  18:52:17,882 - Compiling source file: C:\Users\andri\Desktop\pp1_domaci\workspace\MJCompiler\test\test301.mj
+INFO  18:52:17,930 - #2 program
+INFO  18:52:17,930 - #47 test301
+INFO  18:52:17,930 - #39 {
+INFO  18:52:17,931 - #13 void
+INFO  18:52:17,932 - #47 main
+INFO  18:52:17,932 - #37 (
+INFO  18:52:17,933 - #38 )
+INFO  18:52:17,933 - #47 int
+INFO  18:52:17,933 - #47 i
+INFO  18:52:17,934 - #46 ;
+INFO  18:52:17,934 - #39 {
+INFO  18:52:17,935 - #8 do
+INFO  18:52:17,935 - #39 {
+INFO  18:52:17,936 - #3 break
+INFO  18:52:17,936 - #46 ;
+INFO  18:52:17,936 - #4 continue
+INFO  18:52:17,936 - #46 ;
+INFO  18:52:17,937 - #8 do
+INFO  18:52:17,937 - #39 {
+INFO  18:52:17,937 - #6 if
+INFO  18:52:17,937 - #37 (
+INFO  18:52:17,937 - #47 i
+INFO  18:52:17,938 - #31 <
+INFO  18:52:17,938 - #48 0
+INFO  18:52:17,939 - #38 )
+INFO  18:52:17,939 - #39 {
+INFO  18:52:17,940 - #3 break
+INFO  18:52:17,940 - #46 ;
+INFO  18:52:17,940 - #4 continue
+INFO  18:52:17,940 - #46 ;
+INFO  18:52:17,940 - #40 }
+INFO  18:52:17,940 - #3 break
+INFO  18:52:17,940 - #46 ;
+INFO  18:52:17,940 - #4 continue
+INFO  18:52:17,941 - #46 ;
+INFO  18:52:17,941 - #40 }
+INFO  18:52:17,941 - #9 while
+INFO  18:52:17,941 - #37 (
+INFO  18:52:17,941 - #47 i
+INFO  18:52:17,941 - #31 <
+INFO  18:52:17,941 - #48 0
+INFO  18:52:17,941 - #38 )
+INFO  18:52:17,941 - #46 ;
+INFO  18:52:17,941 - #40 }
+INFO  18:52:17,941 - #9 while
+INFO  18:52:17,941 - #37 (
+INFO  18:52:17,941 - #47 i
+INFO  18:52:17,941 - #31 <
+INFO  18:52:17,941 - #48 0
+INFO  18:52:17,941 - #38 )
+INFO  18:52:17,942 - #46 ;
+INFO  18:52:17,942 - #6 if
+INFO  18:52:17,942 - #37 (
+INFO  18:52:17,942 - #47 i
+INFO  18:52:17,942 - #31 <
+INFO  18:52:17,942 - #48 0
+INFO  18:52:17,942 - #38 )
+INFO  18:52:17,942 - #39 {
+INFO  18:52:17,942 - #3 break
+INFO  18:52:17,942 - #46 ;
+INFO  18:52:17,942 - #4 continue
+INFO  18:52:17,942 - #46 ;
+INFO  18:52:17,942 - #40 }
+INFO  18:52:17,942 - #3 break
+INFO  18:52:17,942 - #46 ;
+INFO  18:52:17,942 - #4 continue
+INFO  18:52:17,942 - #46 ;
+INFO  18:52:17,942 - #40 }
+INFO  18:52:17,943 - #40 }
+INFO  18:52:17,948 - Program(
+  ProgramName(
+   test301
+  ) [ProgramName]
+  NoProgramVarDeclarations(
+  ) [NoProgramVarDeclarations]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodReturnVoid(
+      ) [MethodReturnVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoMethodParams(
+      ) [NoMethodParams]
+      VarDeclarationList(
+        NoVarDeclarationList(
+        ) [NoVarDeclarationList]
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          VarNameSingle(
+            VarNamePartSingle(
+             i
+            ) [VarNamePartSingle]
+          ) [VarNameSingle]
+        ) [VarDecl]
+      ) [VarDeclarationList]
+      StmtList(
+        StmtList(
+          StmtList(
+            StmtList(
+              NoStmtList(
+              ) [NoStmtList]
+              SingleStmt(
+                WhileSingleStmt(
+                  StartDoWhileLooping(
+                  ) [StartDoWhileLooping]
+                  MultipleStmt(
+                    Stmts(
+                      StmtList(
+                        StmtList(
+                          StmtList(
+                            NoStmtList(
+                            ) [NoStmtList]
+                            SingleStmt(
+                              BreakSingleStmt(
+                              ) [BreakSingleStmt]
+                            ) [SingleStmt]
+                          ) [StmtList]
+                          SingleStmt(
+                            ContinueSingleStmt(
+                            ) [ContinueSingleStmt]
+                          ) [SingleStmt]
+                        ) [StmtList]
+                        SingleStmt(
+                          WhileSingleStmt(
+                            StartDoWhileLooping(
+                            ) [StartDoWhileLooping]
+                            MultipleStmt(
+                              Stmts(
+                                StmtList(
+                                  StmtList(
+                                    StmtList(
+                                      NoStmtList(
+                                      ) [NoStmtList]
+                                      SingleStmt(
+                                        IfSingleStmt(
+                                          IfPartSingleStmt(
+                                            IfConditionSuccess(
+                                              NoOrCondition(
+                                                NoAndCondTerm(
+                                                  CondFactRelOp(
+                                                    SignExpression(
+                                                      ExprInfoMoreOnly(
+                                                        NoExprSign(
+                                                        ) [NoExprSign]
+                                                        ExprInfoSingle(
+                                                          SingleTerm(
+                                                            FactorDesignator(
+                                                              DesignatorNamed(
+                                                               i
+                                                              ) [DesignatorNamed]
+                                                            ) [FactorDesignator]
+                                                          ) [SingleTerm]
+                                                        ) [ExprInfoSingle]
+                                                      ) [ExprInfoMoreOnly]
+                                                    ) [SignExpression]
+                                                    RelOpLess(
+                                                    ) [RelOpLess]
+                                                    SignExpression(
+                                                      ExprInfoMoreOnly(
+                                                        NoExprSign(
+                                                        ) [NoExprSign]
+                                                        ExprInfoSingle(
+                                                          SingleTerm(
+                                                            FactorConst(
+                                                              NumConst(
+                                                               0
+                                                              ) [NumConst]
+                                                            ) [FactorConst]
+                                                          ) [SingleTerm]
+                                                        ) [ExprInfoSingle]
+                                                      ) [ExprInfoMoreOnly]
+                                                    ) [SignExpression]
+                                                  ) [CondFactRelOp]
+                                                ) [NoAndCondTerm]
+                                              ) [NoOrCondition]
+                                            ) [IfConditionSuccess]
+                                            MultipleStmt(
+                                              Stmts(
+                                                StmtList(
+                                                  StmtList(
+                                                    NoStmtList(
+                                                    ) [NoStmtList]
+                                                    SingleStmt(
+                                                      BreakSingleStmt(
+                                                      ) [BreakSingleStmt]
+                                                    ) [SingleStmt]
+                                                  ) [StmtList]
+                                                  SingleStmt(
+                                                    ContinueSingleStmt(
+                                                    ) [ContinueSingleStmt]
+                                                  ) [SingleStmt]
+                                                ) [StmtList]
+                                              ) [Stmts]
+                                            ) [MultipleStmt]
+                                          ) [IfPartSingleStmt]
+                                          NoElsePartStmt(
+                                          ) [NoElsePartStmt]
+                                        ) [IfSingleStmt]
+                                      ) [SingleStmt]
+                                    ) [StmtList]
+                                    SingleStmt(
+                                      BreakSingleStmt(
+                                      ) [BreakSingleStmt]
+                                    ) [SingleStmt]
+                                  ) [StmtList]
+                                  SingleStmt(
+                                    ContinueSingleStmt(
+                                    ) [ContinueSingleStmt]
+                                  ) [SingleStmt]
+                                ) [StmtList]
+                              ) [Stmts]
+                            ) [MultipleStmt]
+                            NoOrCondition(
+                              NoAndCondTerm(
+                                CondFactRelOp(
+                                  SignExpression(
+                                    ExprInfoMoreOnly(
+                                      NoExprSign(
+                                      ) [NoExprSign]
+                                      ExprInfoSingle(
+                                        SingleTerm(
+                                          FactorDesignator(
+                                            DesignatorNamed(
+                                             i
+                                            ) [DesignatorNamed]
+                                          ) [FactorDesignator]
+                                        ) [SingleTerm]
+                                      ) [ExprInfoSingle]
+                                    ) [ExprInfoMoreOnly]
+                                  ) [SignExpression]
+                                  RelOpLess(
+                                  ) [RelOpLess]
+                                  SignExpression(
+                                    ExprInfoMoreOnly(
+                                      NoExprSign(
+                                      ) [NoExprSign]
+                                      ExprInfoSingle(
+                                        SingleTerm(
+                                          FactorConst(
+                                            NumConst(
+                                             0
+                                            ) [NumConst]
+                                          ) [FactorConst]
+                                        ) [SingleTerm]
+                                      ) [ExprInfoSingle]
+                                    ) [ExprInfoMoreOnly]
+                                  ) [SignExpression]
+                                ) [CondFactRelOp]
+                              ) [NoAndCondTerm]
+                            ) [NoOrCondition]
+                          ) [WhileSingleStmt]
+                        ) [SingleStmt]
+                      ) [StmtList]
+                    ) [Stmts]
+                  ) [MultipleStmt]
+                  NoOrCondition(
+                    NoAndCondTerm(
+                      CondFactRelOp(
+                        SignExpression(
+                          ExprInfoMoreOnly(
+                            NoExprSign(
+                            ) [NoExprSign]
+                            ExprInfoSingle(
+                              SingleTerm(
+                                FactorDesignator(
+                                  DesignatorNamed(
+                                   i
+                                  ) [DesignatorNamed]
+                                ) [FactorDesignator]
+                              ) [SingleTerm]
+                            ) [ExprInfoSingle]
+                          ) [ExprInfoMoreOnly]
+                        ) [SignExpression]
+                        RelOpLess(
+                        ) [RelOpLess]
+                        SignExpression(
+                          ExprInfoMoreOnly(
+                            NoExprSign(
+                            ) [NoExprSign]
+                            ExprInfoSingle(
+                              SingleTerm(
+                                FactorConst(
+                                  NumConst(
+                                   0
+                                  ) [NumConst]
+                                ) [FactorConst]
+                              ) [SingleTerm]
+                            ) [ExprInfoSingle]
+                          ) [ExprInfoMoreOnly]
+                        ) [SignExpression]
+                      ) [CondFactRelOp]
+                    ) [NoAndCondTerm]
+                  ) [NoOrCondition]
+                ) [WhileSingleStmt]
+              ) [SingleStmt]
+            ) [StmtList]
+            SingleStmt(
+              IfSingleStmt(
+                IfPartSingleStmt(
+                  IfConditionSuccess(
+                    NoOrCondition(
+                      NoAndCondTerm(
+                        CondFactRelOp(
+                          SignExpression(
+                            ExprInfoMoreOnly(
+                              NoExprSign(
+                              ) [NoExprSign]
+                              ExprInfoSingle(
+                                SingleTerm(
+                                  FactorDesignator(
+                                    DesignatorNamed(
+                                     i
+                                    ) [DesignatorNamed]
+                                  ) [FactorDesignator]
+                                ) [SingleTerm]
+                              ) [ExprInfoSingle]
+                            ) [ExprInfoMoreOnly]
+                          ) [SignExpression]
+                          RelOpLess(
+                          ) [RelOpLess]
+                          SignExpression(
+                            ExprInfoMoreOnly(
+                              NoExprSign(
+                              ) [NoExprSign]
+                              ExprInfoSingle(
+                                SingleTerm(
+                                  FactorConst(
+                                    NumConst(
+                                     0
+                                    ) [NumConst]
+                                  ) [FactorConst]
+                                ) [SingleTerm]
+                              ) [ExprInfoSingle]
+                            ) [ExprInfoMoreOnly]
+                          ) [SignExpression]
+                        ) [CondFactRelOp]
+                      ) [NoAndCondTerm]
+                    ) [NoOrCondition]
+                  ) [IfConditionSuccess]
+                  MultipleStmt(
+                    Stmts(
+                      StmtList(
+                        StmtList(
+                          NoStmtList(
+                          ) [NoStmtList]
+                          SingleStmt(
+                            BreakSingleStmt(
+                            ) [BreakSingleStmt]
+                          ) [SingleStmt]
+                        ) [StmtList]
+                        SingleStmt(
+                          ContinueSingleStmt(
+                          ) [ContinueSingleStmt]
+                        ) [SingleStmt]
+                      ) [StmtList]
+                    ) [Stmts]
+                  ) [MultipleStmt]
+                ) [IfPartSingleStmt]
+                NoElsePartStmt(
+                ) [NoElsePartStmt]
+              ) [IfSingleStmt]
+            ) [SingleStmt]
+          ) [StmtList]
+          SingleStmt(
+            BreakSingleStmt(
+            ) [BreakSingleStmt]
+          ) [SingleStmt]
+        ) [StmtList]
+        SingleStmt(
+          ContinueSingleStmt(
+          ) [ContinueSingleStmt]
+        ) [SingleStmt]
+      ) [StmtList]
+    ) [MethodDeclaration]
+  ) [MethodDeclarations]
+) [Program]
+INFO  18:52:17,948 - ===================================
+INFO  18:52:17,951 - start main na liniji 3
+INFO  18:52:17,951 - Method returns void
+INFO  18:52:17,951 - start method main na liniji 6
+INFO  18:52:17,951 - Variable int i declared
+ERROR 18:52:17,951 - Use break only in while loops
+ERROR 18:52:17,951 - Use continue only in while loops
+ERROR 18:52:17,952 - Use break only in while loops
+ERROR 18:52:17,952 - Use continue only in while loops
+ERROR 18:52:17,952 - Use break only in while loops
+ERROR 18:52:17,952 - Use continue only in while loops
+INFO  18:52:17,952 - end main na liniji 3
+INFO  18:52:17,952 - ===================================
+INFO  18:52:17,953 - Parsing not successfull

@@ -1,0 +1,66 @@
+INFO  19:19:11,690 - Compiling source file: /Users/filipandric/Desktop/pp1_plsradi/workspace/MJCompiler/test/program.mj
+INFO  19:19:11,735 - #2 program
+INFO  19:19:11,735 - #47 p
+INFO  19:19:11,735 - #5 const
+INFO  19:19:11,736 - #47 boolean
+INFO  19:19:11,736 - #47 a
+INFO  19:19:11,736 - #23 =
+INFO  19:19:11,736 - #48 2
+INFO  19:19:11,737 - #46 ;
+INFO  19:19:11,737 - #39 {
+INFO  19:19:11,737 - #13 void
+INFO  19:19:11,738 - #47 main
+INFO  19:19:11,738 - #37 (
+INFO  19:19:11,738 - #38 )
+INFO  19:19:11,738 - #39 {
+INFO  19:19:11,738 - #40 }
+INFO  19:19:11,742 - #40 }
+INFO  19:19:11,823 - Program(
+  ProgramName(
+   p
+  ) [ProgramName]
+  ProgramVarDeclarations(
+    NoProgramVarDeclarations(
+    ) [NoProgramVarDeclarations]
+    ConstProgramVarDeclaration(
+      ConstDecl(
+        Type(
+         boolean
+        ) [Type]
+        ConstNameSingle(
+          ConstNamePart(
+           a
+            AssignOp(
+            ) [AssignOp]
+            NumConst(
+             2
+            ) [NumConst]
+          ) [ConstNamePart]
+        ) [ConstNameSingle]
+      ) [ConstDecl]
+    ) [ConstProgramVarDeclaration]
+  ) [ProgramVarDeclarations]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodReturnVoid(
+      ) [MethodReturnVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoMethodParams(
+      ) [NoMethodParams]
+      NoVarDeclarationList(
+      ) [NoVarDeclarationList]
+      NoStmtList(
+      ) [NoStmtList]
+    ) [MethodDeclaration]
+  ) [MethodDeclarations]
+) [Program]
+INFO  19:19:11,823 - ===================================
+INFO  19:19:11,826 - start main na liniji 1
+INFO  19:19:11,826 - boolean
+ERROR 19:19:11,826 - Constant types not matching na liniji 3
+INFO  19:19:11,826 - start method main na liniji 6
+INFO  19:19:11,826 - end main na liniji 1

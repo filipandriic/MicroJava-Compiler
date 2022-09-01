@@ -1,0 +1,19 @@
+// Test301
+
+program test301
+
+int x, y;
+{
+ 
+    void main() {
+        x = 1;
+        y = 3;
+        
+        do {
+        	x++;
+        	y++;
+        	print(x);
+        } while (x < 5 || y < 5);
+    }
+}
+

@@ -1,0 +1,80 @@
+INFO  18:55:12,897 - Compiling source file: /Users/filipandric/Desktop/pp1_plsradi/workspace/MJCompiler/test/program.mj
+INFO  18:55:12,955 - #2 program
+INFO  18:55:12,956 - #47 p
+INFO  18:55:12,956 - #5 const
+INFO  18:55:12,958 - #47 int
+INFO  18:55:12,958 - #47 a
+INFO  18:55:12,959 - #23 =
+INFO  18:55:12,959 - #48 0
+INFO  18:55:12,959 - #46 ;
+INFO  18:55:12,959 - #5 const
+INFO  18:55:12,960 - #47 int
+INFO  18:55:12,960 - #47 c
+INFO  18:55:12,960 - #23 =
+INFO  18:55:12,960 - #47 true
+ERROR 18:55:12,960 - Syntax error na liniji 4
+INFO  18:55:12,960 - #46 ;
+INFO  18:55:12,960 - #39 {
+INFO  18:55:12,960 - #13 void
+INFO  18:55:12,961 - #47 main
+INFO  18:55:12,961 - #37 (
+ERROR 18:55:12,961 - 
+Sintaksna greska : Greska pri definiciji globalne promenljive, linija: 8
+INFO  18:55:12,961 - Uspesno izvrsen oporavak od greske pri definiciji globalne promenljive.
+INFO  18:55:12,962 - #38 )
+INFO  18:55:12,964 - #39 {
+INFO  18:55:12,965 - #40 }
+INFO  18:55:12,965 - #40 }
+INFO  18:55:13,055 - Program(
+  ProgramName(
+   p
+  ) [ProgramName]
+  ProgramVarDeclarations(
+    ProgramVarDeclarations(
+      NoProgramVarDeclarations(
+      ) [NoProgramVarDeclarations]
+      ConstProgramVarDeclaration(
+        ConstDecl(
+          Type(
+           int
+          ) [Type]
+          ConstNameSingle(
+            ConstNamePart(
+             a
+              AssignOp(
+              ) [AssignOp]
+              NumConst(
+               0
+              ) [NumConst]
+            ) [ConstNamePart]
+          ) [ConstNameSingle]
+        ) [ConstDecl]
+      ) [ConstProgramVarDeclaration]
+    ) [ProgramVarDeclarations]
+    VarProgramVarDeclaration(
+      GlobalVarDeclarationError(
+      ) [GlobalVarDeclarationError]
+    ) [VarProgramVarDeclaration]
+  ) [ProgramVarDeclarations]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodReturnVoid(
+      ) [MethodReturnVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoMethodParams(
+      ) [NoMethodParams]
+      NoVarDeclarationList(
+      ) [NoVarDeclarationList]
+      NoStmtList(
+      ) [NoStmtList]
+    ) [MethodDeclaration]
+  ) [MethodDeclarations]
+) [Program]
+INFO  18:55:13,055 - ===================================
+INFO  18:55:13,057 - start main na liniji 1
+INFO  18:55:13,058 - int
+INFO  18:55:13,058 - 
